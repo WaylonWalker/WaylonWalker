@@ -20,8 +20,3 @@ I create blog posts and open source packages mainly about python and data engine
 ### My Latest Post
 
 I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
-
-
-### My favorite repos
-
-👇 I have pinned some of my favorite posts below, take a look 👇
