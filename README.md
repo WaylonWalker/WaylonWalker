@@ -4,6 +4,7 @@
 <a href="https://twitter/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram/waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
 
 Hey there 👋,
 
