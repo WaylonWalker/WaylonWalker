@@ -1,6 +1,4 @@
-# waylonwalker
-
-[![waylon walker header](https://waylonwalker.com/waylon-walker.png)](https://waylonwalker.com)
+# [![waylon walker header](https://waylonwalker.com/waylon-walker.png)](https://waylonwalker.com)
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code> -->
 
