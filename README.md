@@ -4,7 +4,7 @@
 <a href="https://twitter/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram/waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/linkedin.png?raw=true"></a>
 </p>
 
 Hey there 👋,
@@ -24,3 +24,7 @@ I write regular blog posts, most of which you will find on my personal website [
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
 [Latest Post 👉](https://waylonwalker.com/latest)
+
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
+ <p/>
