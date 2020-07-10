@@ -33,7 +33,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
  
 </details>
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
-\
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
