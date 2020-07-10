@@ -25,10 +25,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 [Latest Post 👉](https://waylonwalker.com/latest)
 
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
- <p/>
-
 <details>
  <summary><strong>other favorite posts</strong></summary>
  <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
@@ -37,3 +33,8 @@ I write about things I am familiar with, things that trip up folks that I mentor
  
 </details>
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
+\
+
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
+ <p/>
