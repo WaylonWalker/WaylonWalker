@@ -29,5 +29,11 @@ I write about things I am familiar with, things that trip up folks that I mentor
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
  <p/>
 
-
+<details>
+ <summary><h3>other favorite posts</h3></summary>
+ <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
+ 
+</details>
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
