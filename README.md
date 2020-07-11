@@ -1,4 +1,4 @@
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/master/icon/gh-bannner.png)](https://waylonwalker.com)
+# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/master/icon/gh-bannner-light.png)](https://waylonwalker.com)
 <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/master/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
