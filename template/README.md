@@ -36,15 +36,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Follower _${me_followers_count}_
 
-<a href='https://twitter.com/${latest_screen_name}'>
-  <img style="border-radius:50%" align="left" src='${latest_profile_image_url_https}' />
-</a>
-
-<a href='https://twitter.com/${latest_screen_name}'>
-    ${latest_name}
-</a>
-
-${latest_description}
+${latest_followers}
 
 <p align='center'>
 <!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
