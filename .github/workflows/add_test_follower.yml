@@ -27,28 +27,28 @@ jobs:
       with:
         ref: ${{ github.head_ref }}
 
-  - name: 🐍 Setup Python
-    uses: actions/setup-python@v2
-    with:
-      python-version: 3.8
-      
-  - name: 📥 Install Packages
-    script: pip install tweepy
-  
-  - name: add-latest-follower
-    script: python scripts/add_latest_follower.py
-    with:
-      env:
-        CONSUMER_KEY:${{ secrets.TWITTER_CONSUMER_KEY }}
-        CONSUMER_SECRET:${{ secrets.TWITTER_CONSUMER_SECRET }}
-        ACCESS_TOKEN:${{ secrets.TWITTER_ACCESS_TOKEN }}
-        ACCESS_TOKEN_SECRET:${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+        
+    - name: 📥 Install Packages
+      script: pip install tweepy
+    
+    - name: add-latest-follower
+      script: python scripts/add_latest_follower.py
+      with:
+        env:
+          CONSUMER_KEY:${{ secrets.TWITTER_CONSUMER_KEY }}
+          CONSUMER_SECRET:${{ secrets.TWITTER_CONSUMER_SECRET }}
+          ACCESS_TOKEN:${{ secrets.TWITTER_ACCESS_TOKEN }}
+          ACCESS_TOKEN_SECRET:${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
 
-  - uses: stefanzweifel/git-auto-commit-action@v4
-    with:
-      file_pattern: README.md
-      commit_message: Add Latest Follower
-      commit_user_name: Follower Bot
-      commit_user_email: follower-bot@waylonwalker.com
-      commit_author: Follower Bot <follower-bot@waylonwalker.com>
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        file_pattern: README.md
+        commit_message: Add Latest Follower
+        commit_user_name: Follower Bot
+        commit_user_email: follower-bot@waylonwalker.com
+        commit_author: Follower Bot <follower-bot@waylonwalker.com>
 
