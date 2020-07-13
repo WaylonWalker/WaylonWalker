@@ -33,16 +33,15 @@ jobs:
         python-version: 3.8
         
     - name: 📥 Install Packages
-      script: pip install tweepy
+      run: pip install tweepy
     
     - name: add-latest-follower
-      script: python scripts/add_latest_follower.py
-      with:
-        env:
-          CONSUMER_KEY:${{ secrets.TWITTER_CONSUMER_KEY }}
-          CONSUMER_SECRET:${{ secrets.TWITTER_CONSUMER_SECRET }}
-          ACCESS_TOKEN:${{ secrets.TWITTER_ACCESS_TOKEN }}
-          ACCESS_TOKEN_SECRET:${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+      run: python scripts/add_latest_follower.py
+      env:
+        CONSUMER_KEY:${{ secrets.TWITTER_CONSUMER_KEY }}
+        CONSUMER_SECRET:${{ secrets.TWITTER_CONSUMER_SECRET }}
+        ACCESS_TOKEN:${{ secrets.TWITTER_ACCESS_TOKEN }}
+        ACCESS_TOKEN_SECRET:${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
