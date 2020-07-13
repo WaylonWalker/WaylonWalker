@@ -49,7 +49,45 @@ C | Modern C++ | Python | Go | V @v_language Contributor.
 
 https://t.co/joOO2b4z88: https://t.co/9Yit97TiV2
 GitHub: https://t.co/GrVxzpgPZh
-Deviant Art: https://t.co/ZlF9PsNZR5
+Deviant Art: https://t.co/ZlF9PsNZR5<a href='https://twitter.com/SleekWebsiteLLC'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1253441454405562369/WNGORBXd_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/SleekWebsiteLLC'>
+    Daniel @ Sleek Websites
+</a>
+
+Hi, I'm Daniel - a freelance web developer. I am the owner of Sleek Websites. I tweet about computer programming, business, and productivity.<a href='https://twitter.com/Sephtyi'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1273668004136521728/K72PMGDm_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/Sephtyi'>
+    Jan
+</a>
+
+Aspiring Web Developer 👨🏻‍💻,
+Future CS student 👨🏻‍🎓,
+User Interface (UI) enthusiast.
+
+Follow my journey to becoming a professional dev 🧐
+
+#100DaysOfCode<a href='https://twitter.com/micaviolet_'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1191533790616784897/1HWedlBD_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/micaviolet_'>
+    Micaela McCall
+</a>
+
+Data Scientist and neuroscience enthusiast 🕵🏼‍♀️🌈🌵<a href='https://twitter.com/dandenney'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1145759446985007106/aSTU7wxm_normal.png' />
+</a>
+
+<a href='https://twitter.com/dandenney'>
+    Dan Denney
+</a>
+
+I'm a Front-end Developer @datacamp and lover of all things design and development related. Founder of @frontendconf, but now a glorified attendee.
 
 <p align='center'>
 <!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
