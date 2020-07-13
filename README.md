@@ -34,9 +34,19 @@ I write about things I am familiar with, things that trip up folks that I mentor
 </details>
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _234_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _235_
 
-<a href='https://twitter.com/Delta2315'>
+<a href='https://twitter.com/brianmmdev'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1250997828379344899/GO6L94Yr_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/brianmmdev'>
+    Brian Morrison II 👨‍💻 #BlackLivesMatter
+</a>
+
+Software Engineer & Live Coder • YouTube: https://t.co/Z6ugmIkzRL • Discord: https://t.co/KlBCDY1rem • FB Gaming: https://t.co/sOJTKVIsxN
+
+<h2></h2><a href='https://twitter.com/Delta2315'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1166656388291907584/P-N8_Hbq_normal.png' />
 </a>
 
@@ -86,16 +96,6 @@ Follow my journey to becoming a professional dev 🧐
 </a>
 
 Data Scientist and neuroscience enthusiast 🕵🏼‍♀️🌈🌵
-
-<h2></h2><a href='https://twitter.com/dandenney'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1145759446985007106/aSTU7wxm_normal.png' />
-</a>
-
-<a href='https://twitter.com/dandenney'>
-    Dan Denney
-</a>
-
-I'm a Front-end Developer @datacamp and lover of all things design and development related. Founder of @frontendconf, but now a glorified attendee.
 
 <h2></h2>
 
