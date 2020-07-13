@@ -38,10 +38,10 @@ jobs:
     - name: add-latest-follower
       run: python scripts/add_latest_follower.py
       env:
-        CONSUMER_KEY:${{ secrets.TWITTER_CONSUMER_KEY }}
-        CONSUMER_SECRET:${{ secrets.TWITTER_CONSUMER_SECRET }}
-        ACCESS_TOKEN:${{ secrets.TWITTER_ACCESS_TOKEN }}
-        ACCESS_TOKEN_SECRET:${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+        CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+        ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+        ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
