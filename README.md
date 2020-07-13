@@ -34,6 +34,18 @@ I write about things I am familiar with, things that trip up folks that I mentor
 </details>
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Follower _234_
+
+<a href='https://twitter.com/SleekWebsiteLLC'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1253441454405562369/WNGORBXd_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/SleekWebsiteLLC'>
+    Daniel @ Sleek Websites
+</a>
+
+Hi, I'm Daniel - a freelance web developer. I am the owner of Sleek Websites. I tweet about computer programming, business, and productivity.
+
 <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">
+<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
  <p/>
