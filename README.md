@@ -34,9 +34,29 @@ I write about things I am familiar with, things that trip up folks that I mentor
 </details>
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _237_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _238_
 
-<a href='https://twitter.com/csfinch'>
+<a href='https://twitter.com/BurstCloudCo'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1278381416821080065/bvPCr4ZI_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/BurstCloudCo'>
+    BurstCloud
+</a>
+
+Secure, valuable #cloud #hosting.
+
+<h2></h2><a href='https://twitter.com/jr_tonui'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255856591645130754/ImroAQnn_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/jr_tonui'>
+    Tonui.jr
+</a>
+
+humble
+
+<h2></h2><a href='https://twitter.com/csfinch'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1256139099813171200/BVCrHTv8_normal.jpg' />
 </a>
 
@@ -67,31 +87,6 @@ Développeur web et désigner. Mon Instagram  : https://t.co/OG059zXD91 🌎Cliq
 </a>
 
 Software Engineer & Live Coder • YouTube: https://t.co/Z6ugmIkzRL • Discord: https://t.co/KlBCDY1rem • FB Gaming: https://t.co/sOJTKVIsxN
-
-<h2></h2><a href='https://twitter.com/Delta2315'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1166656388291907584/P-N8_Hbq_normal.png' />
-</a>
-
-<a href='https://twitter.com/Delta2315'>
-    Swastik Baranwal
-</a>
-
-A noob
-C | Modern C++ | Python | Go | V @v_language Contributor. 
-
-https://t.co/joOO2b4z88: https://t.co/9Yit97TiV2
-GitHub: https://t.co/GrVxzpgPZh
-Deviant Art: https://t.co/ZlF9PsNZR5
-
-<h2></h2><a href='https://twitter.com/SleekWebsiteLLC'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1253441454405562369/WNGORBXd_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/SleekWebsiteLLC'>
-    Daniel @ Sleek Websites
-</a>
-
-Hi, I'm Daniel - a freelance web developer. I am the owner of Sleek Websites. I tweet about computer programming, business, and productivity.
 
 <h2></h2>
 
