@@ -32,6 +32,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
  <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
  
 </details>
+
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
 ## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _${me_followers_count}_
