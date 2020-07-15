@@ -35,9 +35,19 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _238_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _239_
 
-<a href='https://twitter.com/BurstCloudCo'>
+<a href='https://twitter.com/LegendOfLuis'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1127438451337355265/j6DPvMZC_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/LegendOfLuis'>
+    Luis Augusto
+</a>
+
+#Frontend #JavaScript developer with @HDMZHealth. On a quest to visit all the national parks and hike the highest mountains 🐕🏞️
+
+<h2></h2><a href='https://twitter.com/BurstCloudCo'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1278381416821080065/bvPCr4ZI_normal.jpg' />
 </a>
 
@@ -78,16 +88,6 @@ Connect with me on LI https://t.co/UMhAREyKO8
 </a>
 
 Développeur web et désigner. Mon Instagram  : https://t.co/OG059zXD91 🌎Cliquez ici pour accéder à à ma chaîne 👇
-
-<h2></h2><a href='https://twitter.com/brianmmdev'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1250997828379344899/GO6L94Yr_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/brianmmdev'>
-    Brian Morrison II 👨‍💻 #BlackLivesMatter
-</a>
-
-Software Engineer & Live Coder • YouTube: https://t.co/Z6ugmIkzRL • Discord: https://t.co/KlBCDY1rem • FB Gaming: https://t.co/sOJTKVIsxN
 
 <h2></h2>
 
