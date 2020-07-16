@@ -35,9 +35,19 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _239_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _240_
 
-<a href='https://twitter.com/CicmilJovan'>
+<a href='https://twitter.com/csaltos'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1220011932184465414/tN6G5Pbx_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/csaltos'>
+    Carlos Saltos
+</a>
+
+Coding with Scala, Elixir, Haskell, Python, Javascript, Rust and Ruby. Co-Founder of @Talenteca
+
+<h2></h2><a href='https://twitter.com/CicmilJovan'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1225691666108932097/4e_9Gar2_normal.jpg' />
 </a>
 
@@ -77,16 +87,6 @@ https://t.co/0djOESJ4UV
 </a>
 
 Secure, valuable #cloud #hosting.
-
-<h2></h2><a href='https://twitter.com/jr_tonui'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255856591645130754/ImroAQnn_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/jr_tonui'>
-    Tonui.jr
-</a>
-
-humble
 
 <h2></h2>
 
