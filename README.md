@@ -14,7 +14,7 @@ I create blog posts and open source packages mainly about python and data engine
  ---
  
  <p>
-  <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
 ### Boy Scout Rule
