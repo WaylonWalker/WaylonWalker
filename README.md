@@ -35,9 +35,19 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _238_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _239_
 
-<a href='https://twitter.com/andreacanton'>
+<a href='https://twitter.com/CicmilJovan'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1225691666108932097/4e_9Gar2_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/CicmilJovan'>
+    Jovan C
+</a>
+
+Writer on Medium: https://t.co/64ElkR0Su0 /// Programmer on Upwork: https://t.co/tbTKejYsoe
+
+<h2></h2><a href='https://twitter.com/andreacanton'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1277020589274914818/WiJDgwDu_normal.jpg' />
 </a>
 
@@ -77,18 +87,6 @@ Secure, valuable #cloud #hosting.
 </a>
 
 humble
-
-<h2></h2><a href='https://twitter.com/csfinch'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1256139099813171200/BVCrHTv8_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/csfinch'>
-    csfinch
-</a>
-
-Entrepreneur who loves building innovative new #SaaS & #startups working in  #nodejs #JavaScript #docker #k8s 
-Blog: https://t.co/UZjb1ejtZq
-LI:  https://t.co/nZkw9Oj9lh
 
 <h2></h2>
 
