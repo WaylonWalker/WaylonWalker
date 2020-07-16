@@ -37,7 +37,18 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _238_
 
-<a href='https://twitter.com/LegendOfLuis'>
+<a href='https://twitter.com/andreacanton'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1277020589274914818/WiJDgwDu_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/andreacanton'>
+    Andrea Canton 👨‍💻
+</a>
+
+Pragmatic Coder. Usability maniac. Vegetarian since birth. He/Him.
+https://t.co/0djOESJ4UV
+
+<h2></h2><a href='https://twitter.com/LegendOfLuis'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1127438451337355265/j6DPvMZC_normal.jpg' />
 </a>
 
@@ -75,19 +86,9 @@ humble
     csfinch
 </a>
 
-Serial Entrepreneur who loves building #startups
-Love working in  #nodejs #JavaScript on new products for a better future
-Connect with me on LI https://t.co/UMhAREyKO8
-
-<h2></h2><a href='https://twitter.com/NoahKahenga'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1279369050615951360/sD8W-fC5_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/NoahKahenga'>
-    Jean-Luc Noah | Devs
-</a>
-
-Développeur web et désigner. Mon Instagram  : https://t.co/OG059zXD91 🌎Cliquez ici pour accéder à à ma chaîne 👇
+Entrepreneur who loves building innovative new #SaaS & #startups working in  #nodejs #JavaScript #docker #k8s 
+Blog: https://t.co/UZjb1ejtZq
+LI:  https://t.co/nZkw9Oj9lh
 
 <h2></h2>
 
