@@ -45,11 +45,21 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _242_
-
 ---
 
-<a href='https://twitter.com/sudo_overflow'>
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _243_
+
+<a href='https://twitter.com/movieChessTech'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1210796823415148546/ZyNfj_v1_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/movieChessTech'>
+    musicMovieChessAndTech
+</a>
+
+Here for music, movies, chess, science & technology
+
+<h2></h2><a href='https://twitter.com/sudo_overflow'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1272109308826681344/t4XNLk9c_normal.jpg' />
 </a>
 
@@ -88,17 +98,6 @@ Coding with Scala, Elixir, Haskell, Python, Javascript, Rust and Ruby. Co-Founde
 </a>
 
 Writer on Medium: https://t.co/64ElkR0Su0 /// Programmer on Upwork: https://t.co/tbTKejYsoe
-
-<h2></h2><a href='https://twitter.com/andreacanton'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1277020589274914818/WiJDgwDu_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/andreacanton'>
-    Andrea Canton 👨‍💻
-</a>
-
-Pragmatic Coder. Usability maniac. Vegetarian since birth. He/Him.
-https://t.co/0djOESJ4UV
 
 <h2></h2>
 
