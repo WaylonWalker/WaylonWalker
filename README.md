@@ -47,9 +47,24 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _242_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _243_
 
-<a href='https://twitter.com/DataEngineerOne'>
+<a href='https://twitter.com/wottavm'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1238844349829582849/UwGDSQug_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/wottavm'>
+    wouter van marrum
+</a>
+
+@MonsterEnergy to code converter. 
+Laravel enthusiast + certified.
+
+Like to help people when I can.
+
+A bit of a gamer but a full time father of 2.
+
+<h2></h2><a href='https://twitter.com/DataEngineerOne'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1257122846548963333/nSamYF8p_normal.png' />
 </a>
 
@@ -88,16 +103,6 @@ Here for music, movies, chess, science & technology
 </a>
 
 Seeking a JS job! Current status: getting certified in everything, 0/6 short-term projects done
-
-<h2></h2><a href='https://twitter.com/csaltos'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1220011932184465414/tN6G5Pbx_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/csaltos'>
-    Carlos Saltos
-</a>
-
-Coding with Scala, Elixir, Haskell, Python, Javascript, Rust and Ruby. Co-Founder of @Talenteca
 
 <h2></h2>
 
