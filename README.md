@@ -49,7 +49,17 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _242_
 
-<a href='https://twitter.com/movieChessTech'>
+<a href='https://twitter.com/DataEngineerOne'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1257122846548963333/nSamYF8p_normal.png' />
+</a>
+
+<a href='https://twitter.com/DataEngineerOne'>
+    DataEngineerOne
+</a>
+
+I make videos on Data Engineering and #kedro! Check them out at https://t.co/pc2A3eDKQc
+
+<h2></h2><a href='https://twitter.com/movieChessTech'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1210796823415148546/ZyNfj_v1_normal.jpg' />
 </a>
 
@@ -88,16 +98,6 @@ Seeking a JS job! Current status: getting certified in everything, 0/6 short-ter
 </a>
 
 Coding with Scala, Elixir, Haskell, Python, Javascript, Rust and Ruby. Co-Founder of @Talenteca
-
-<h2></h2><a href='https://twitter.com/CicmilJovan'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1225691666108932097/4e_9Gar2_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/CicmilJovan'>
-    Jovan C
-</a>
-
-Writer on Medium: https://t.co/64ElkR0Su0 /// Programmer on Upwork: https://t.co/tbTKejYsoe
 
 <h2></h2>
 
