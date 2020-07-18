@@ -47,7 +47,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _243_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _242_
 
 <a href='https://twitter.com/movieChessTech'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1210796823415148546/ZyNfj_v1_normal.jpg' />
