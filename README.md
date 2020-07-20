@@ -92,7 +92,7 @@ Here for music, movies, chess, science & technology
     Cyris ⭐️
 </a>
 
-ᴅᴇᴠᴇʟᴏᴘᴇʀ - JavaScript - Maker - 3DPrinting - Home Automation - Gaming - Technology - Memes - Dad Jokes - #BlackLivesMatter - 💰 = Sponsored
+JavaScript | Maker | 3D Printing | Home Automation | Gaming | Dad Jokes | #BlackLivesMatter | 💰 = Sponsored
 
 <h2></h2><a href='https://twitter.com/romanjamesmirov'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1196657278348214274/N3vIlFFo_normal.jpg' />
