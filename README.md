@@ -47,9 +47,29 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _243_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _244_
 
-<a href='https://twitter.com/wottavm'>
+<a href='https://twitter.com/MarkTerrel'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/515190422629392386/jA5r-jHa_normal.jpeg' />
+</a>
+
+<a href='https://twitter.com/MarkTerrel'>
+    Mark Terrel
+</a>
+
+Entrepreneur, software geek, cloud herder. Maintainer of @adaptjs - React for your infrastructure. Co-founder @unboundedsystem. Former F5, LineRate, Cisco.
+
+<h2></h2><a href='https://twitter.com/cerysgibbins'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1273146022643077120/2ByX6mzh_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/cerysgibbins'>
+    C e r y s
+</a>
+
+💻 Web Developer 🍸 Socialising 🎧 Music ⚽️ Sport 🎬Movies 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
+
+<h2></h2><a href='https://twitter.com/wottavm'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1238844349829582849/UwGDSQug_normal.jpg' />
 </a>
 
@@ -83,26 +103,6 @@ I make videos on Data Engineering and #kedro! Check them out at https://t.co/pc2
 </a>
 
 Here for music, movies, chess, science & technology
-
-<h2></h2><a href='https://twitter.com/sudo_overflow'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1272109308826681344/t4XNLk9c_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/sudo_overflow'>
-    Cyris ⭐️
-</a>
-
-JavaScript | Maker | 3D Printing | Home Automation | Gaming | Dad Jokes | #BlackLivesMatter | 💰 = Sponsored
-
-<h2></h2><a href='https://twitter.com/romanjamesmirov'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1196657278348214274/N3vIlFFo_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/romanjamesmirov'>
-    Roman
-</a>
-
-Seeking a JS job! Current status: getting certified in everything, 0/6 short-term projects done
 
 <h2></h2>
 
