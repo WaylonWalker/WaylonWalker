@@ -47,9 +47,53 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _244_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _247_
 
-<a href='https://twitter.com/MarkTerrel'>
+<a href='https://twitter.com/AmarPabalkar'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1282890878390898688/zwptNWhZ_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/AmarPabalkar'>
+    Amar Pabalkar
+</a>
+
+Nothing more than a man who cared enough to try
+#Grüngment #Sustainability
+Msc. International Logistics and Supply-Chain-Management.
+#ISMFrankfurt.
+#IIMIndore
+
+<h2></h2><a href='https://twitter.com/basicBrogrammer'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1282785592011567106/mzAqO1yX_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/basicBrogrammer'>
+    JerBear 🧸
+</a>
+
+basic AF \n Do or do not. There is no try.
+
+<h2></h2><a href='https://twitter.com/danielbbudd'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1216639710350598144/1LKT4RMm_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/danielbbudd'>
+    Daniel Budd
+</a>
+
+Educator, Speaker, Author, Researcher & Learning Designer. Writer of Swift. Lover of Design. Producer of The Staffroom Podcast
+
+<h2></h2><a href='https://twitter.com/vyomguptaa'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1098509087619334144/nQS-NeUk_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/vyomguptaa'>
+    Vyom Gupta
+</a>
+
+Aspiring Web Developer 👨‍💻 || Indian🇮🇳 ||18|| Optimist ||
+
+<h2></h2><a href='https://twitter.com/MarkTerrel'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/515190422629392386/jA5r-jHa_normal.jpeg' />
 </a>
 
@@ -58,51 +102,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 </a>
 
 Entrepreneur, software geek, cloud herder. Maintainer of @adaptjs - React for your infrastructure. Co-founder @unboundedsystem. Former F5, LineRate, Cisco.
-
-<h2></h2><a href='https://twitter.com/cerysgibbins'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1273146022643077120/2ByX6mzh_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/cerysgibbins'>
-    C e r y s
-</a>
-
-💻 Web Developer 🍸 Socialising 🎧 Music ⚽️ Sport 🎬Movies 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
-
-<h2></h2><a href='https://twitter.com/wottavm'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1238844349829582849/UwGDSQug_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/wottavm'>
-    wouter van marrum
-</a>
-
-@MonsterEnergy to code converter. 
-Laravel enthusiast + certified.
-
-Like to help people when I can.
-
-A bit of a gamer but a full time father of 2.
-
-<h2></h2><a href='https://twitter.com/DataEngineerOne'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1257122846548963333/nSamYF8p_normal.png' />
-</a>
-
-<a href='https://twitter.com/DataEngineerOne'>
-    DataEngineerOne
-</a>
-
-I make videos on Data Engineering and #kedro! Check them out at https://t.co/pc2A3eDKQc
-
-<h2></h2><a href='https://twitter.com/movieChessTech'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1210796823415148546/ZyNfj_v1_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/movieChessTech'>
-    musicMovieChessAndTech
-</a>
-
-Here for music, movies, chess, science & technology
 
 <h2></h2>
 
