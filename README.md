@@ -47,9 +47,19 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _247_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _248_
 
-<a href='https://twitter.com/AmarPabalkar'>
+<a href='https://twitter.com/NgetichKPeter'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1279033813658730501/TTS1sANX_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/NgetichKPeter'>
+    Ngetich K Peter
+</a>
+
+COMPUTER SCIENTIST:  #physicist:#futurist : #mathematician : #AI
+
+<h2></h2><a href='https://twitter.com/AmarPabalkar'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1282890878390898688/zwptNWhZ_normal.jpg' />
 </a>
 
@@ -92,16 +102,6 @@ Educator, Speaker, Author, Researcher & Learning Designer. Writer of Swift. Love
 </a>
 
 Aspiring Web Developer 👨‍💻 || Indian🇮🇳 ||18|| Optimist ||
-
-<h2></h2><a href='https://twitter.com/MarkTerrel'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/515190422629392386/jA5r-jHa_normal.jpeg' />
-</a>
-
-<a href='https://twitter.com/MarkTerrel'>
-    Mark Terrel
-</a>
-
-Entrepreneur, software geek, cloud herder. Maintainer of @adaptjs - React for your infrastructure. Co-founder @unboundedsystem. Former F5, LineRate, Cisco.
 
 <h2></h2>
 
