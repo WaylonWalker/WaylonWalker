@@ -47,9 +47,29 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _253_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _255_
 
-<a href='https://twitter.com/jubarajmukherje'>
+<a href='https://twitter.com/BenGuthmiller'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284966756906409984/MR0a9hi2_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/BenGuthmiller'>
+    Ben Guthmiller
+</a>
+
+Data and Analytics Leader @IBM | Minnesota State Alum | Technologist | Investor | Tweets are my own opinions
+
+<h2></h2><a href='https://twitter.com/MoBaJS'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284907113890885635/lQWWKawj_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/MoBaJS'>
+    Do you speak JavaScript?
+</a>
+
+
+
+<h2></h2><a href='https://twitter.com/jubarajmukherje'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284494241465434114/pI_Xc1vG_normal.jpg' />
 </a>
 
@@ -78,26 +98,6 @@ Computer Applications student at The Heritage Academy // Electronics & IoT enthu
 </a>
 
 👋 Hi there! I'm a 🇦🇺 Front-End Developer learning #JavaScript and #React for UI & UX development. Sharing my progress, tips, and designs along the way.
-
-<h2></h2><a href='https://twitter.com/KarlsClipboard'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1259178615964606473/aJaop0dC_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/KarlsClipboard'>
-    Karl Smith
-</a>
-
-I am working to expand my skills with #100DaysOfCode and currently learning python.  I also like homesteading and photography.
-
-<h2></h2><a href='https://twitter.com/alex_spindier'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1237871877202165761/EsMJOYVy_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/alex_spindier'>
-    Alex
-</a>
-
-computer science @UCSanDiego prev. @GoBrandify Also you'll probably find some ATLA, HxH & Promare 🚒🔥
 
 <h2></h2>
 
