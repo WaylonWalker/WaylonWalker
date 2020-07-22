@@ -47,9 +47,49 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _250_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _253_
 
-<a href='https://twitter.com/alex_spindier'>
+<a href='https://twitter.com/jubarajmukherje'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284494241465434114/pI_Xc1vG_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/jubarajmukherje'>
+    Jubaraj Mukherjee
+</a>
+
+Computer Applications student at The Heritage Academy // Electronics & IoT enthusiast // Learning Python // 👨🏽‍💻
+
+<h2></h2><a href='https://twitter.com/Bennyboy_JP'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1236524311906664448/xuIZlfD8_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/Bennyboy_JP'>
+    bennyBoy_JP
+</a>
+
+🌑🌒🌓🌔🌕🌖🌗🌘🌑
+
+<h2></h2><a href='https://twitter.com/hewhodevs'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1285540312274747392/cviLX3YL_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/hewhodevs'>
+    Joshua Kelly
+</a>
+
+👋 Hi there! I'm a 🇦🇺 Front-End Developer learning #JavaScript and #React for UI & UX development. Sharing my progress, tips, and designs along the way.
+
+<h2></h2><a href='https://twitter.com/KarlsClipboard'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1259178615964606473/aJaop0dC_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/KarlsClipboard'>
+    Karl Smith
+</a>
+
+I am working to expand my skills with #100DaysOfCode and currently learning python.  I also like homesteading and photography.
+
+<h2></h2><a href='https://twitter.com/alex_spindier'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1237871877202165761/EsMJOYVy_normal.jpg' />
 </a>
 
@@ -58,50 +98,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 </a>
 
 computer science @UCSanDiego prev. @GoBrandify Also you'll probably find some ATLA, HxH & Promare 🚒🔥
-
-<h2></h2><a href='https://twitter.com/LukeHenize'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1273399563269943298/1iZOaN_n_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/LukeHenize'>
-    Luke Henize
-</a>
-
-MHS class of ‘21 | Future Software Dev | Also interested in Baseball, Movies, God, and Led Zeppelin.
-
-<h2></h2><a href='https://twitter.com/NgetichKPeter'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1279033813658730501/TTS1sANX_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/NgetichKPeter'>
-    Ngetich K Peter
-</a>
-
-COMPUTER SCIENTIST:  #physicist:#futurist : #mathematician : #AI
-
-<h2></h2><a href='https://twitter.com/AmarPabalkar'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1282890878390898688/zwptNWhZ_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/AmarPabalkar'>
-    Amar Pabalkar
-</a>
-
-Nothing more than a man who cared enough to try
-#Grüngment #Sustainability
-Msc. International Logistics and Supply-Chain-Management.
-#ISMFrankfurt.
-#IIMIndore
-
-<h2></h2><a href='https://twitter.com/basicBrogrammer'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1282785592011567106/mzAqO1yX_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/basicBrogrammer'>
-    JerBear 🧸
-</a>
-
-basic AF \n Do or do not. There is no try.
 
 <h2></h2>
 
