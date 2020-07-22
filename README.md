@@ -47,9 +47,29 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _248_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _250_
 
-<a href='https://twitter.com/NgetichKPeter'>
+<a href='https://twitter.com/alex_spindier'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1237871877202165761/EsMJOYVy_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/alex_spindier'>
+    Alex
+</a>
+
+computer science @UCSanDiego prev. @GoBrandify Also you'll probably find some ATLA, HxH & Promare 🚒🔥
+
+<h2></h2><a href='https://twitter.com/LukeHenize'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1273399563269943298/1iZOaN_n_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/LukeHenize'>
+    Luke Henize
+</a>
+
+MHS class of ‘21 | Future Software Dev | Also interested in Baseball, Movies, God, and Led Zeppelin.
+
+<h2></h2><a href='https://twitter.com/NgetichKPeter'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1279033813658730501/TTS1sANX_normal.jpg' />
 </a>
 
@@ -82,26 +102,6 @@ Msc. International Logistics and Supply-Chain-Management.
 </a>
 
 basic AF \n Do or do not. There is no try.
-
-<h2></h2><a href='https://twitter.com/danielbbudd'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1216639710350598144/1LKT4RMm_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/danielbbudd'>
-    Daniel Budd
-</a>
-
-Educator, Speaker, Author, Researcher & Learning Designer. Writer of Swift. Lover of Design. Producer of The Staffroom Podcast
-
-<h2></h2><a href='https://twitter.com/vyomguptaa'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1098509087619334144/nQS-NeUk_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/vyomguptaa'>
-    Vyom Gupta
-</a>
-
-Aspiring Web Developer 👨‍💻 || Indian🇮🇳 ||18|| Optimist ||
 
 <h2></h2>
 
