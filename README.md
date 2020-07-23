@@ -47,9 +47,19 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _255_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _256_
 
-<a href='https://twitter.com/BenGuthmiller'>
+<a href='https://twitter.com/tucker_dev'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284727066160705536/VhioFBZE_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/tucker_dev'>
+    James Tucker 🚀
+</a>
+
+software engineer at @soonastudios. career switcher. vue + rails. tweeting about tech, books, startups, and big ideas.
+
+<h2></h2><a href='https://twitter.com/BenGuthmiller'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284966756906409984/MR0a9hi2_normal.jpg' />
 </a>
 
@@ -57,7 +67,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
     Ben Guthmiller
 </a>
 
-Data and Analytics Leader @IBM | Minnesota State Alum | Technologist | Investor | Tweets are my own opinions
+Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investor | Tweets are my own opinions
 
 <h2></h2><a href='https://twitter.com/MoBaJS'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284907113890885635/lQWWKawj_normal.jpg' />
@@ -80,7 +90,7 @@ Data and Analytics Leader @IBM | Minnesota State Alum | Technologist | Investor 
 Computer Applications student at The Heritage Academy // Electronics & IoT enthusiast // Learning Python // 👨🏽‍💻
 
 <h2></h2><a href='https://twitter.com/Bennyboy_JP'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1286006450087538690/pBiNpjBT_normal.jpg' />
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1286244478248865792/RUsoElPN_normal.jpg' />
 </a>
 
 <a href='https://twitter.com/Bennyboy_JP'>
@@ -88,16 +98,6 @@ Computer Applications student at The Heritage Academy // Electronics & IoT enthu
 </a>
 
 🌑🌒🌓🌔🌕🌖🌗🌘🌑
-
-<h2></h2><a href='https://twitter.com/hewhodevs'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1285540312274747392/cviLX3YL_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/hewhodevs'>
-    Joshua Kelly
-</a>
-
-👋 Hi there! I'm a 🇦🇺 Front-End Developer learning #JavaScript and #React for UI & UX development. Sharing my progress, tips, and designs along the way.
 
 <h2></h2>
 
