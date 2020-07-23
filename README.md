@@ -80,7 +80,7 @@ Data and Analytics Leader @IBM | Minnesota State Alum | Technologist | Investor 
 Computer Applications student at The Heritage Academy // Electronics & IoT enthusiast // Learning Python // 👨🏽‍💻
 
 <h2></h2><a href='https://twitter.com/Bennyboy_JP'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1236524311906664448/xuIZlfD8_normal.jpg' />
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1286006450087538690/pBiNpjBT_normal.jpg' />
 </a>
 
 <a href='https://twitter.com/Bennyboy_JP'>
