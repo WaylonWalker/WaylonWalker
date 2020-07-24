@@ -47,9 +47,20 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _257_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
 
-<a href='https://twitter.com/benjaminwardcom'>
+<a href='https://twitter.com/commanderquest'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1243185628864528384/eFnPWZyC_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/commanderquest'>
+    Commander Quest
+</a>
+
+On a mission to the furthest frontiers of tech and talent. 
+Follow my adventures at Club Freelance's Mission Control Center 👉 https://t.co/D4k36nU2at
+
+<h2></h2><a href='https://twitter.com/benjaminwardcom'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1283469746055385088/sr9ZExwG_normal.jpg' />
 </a>
 
@@ -57,7 +68,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
     Benjamin Ward
 </a>
 
-software engineer, avid reader and writer, Star Wars fanatic, learning enthusiast
+software engineer, dev coach, Star Wars fanatic, learning enthusiast, host of the Download Knowledge Podcast
 
 <h2></h2><a href='https://twitter.com/tucker_dev'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284727066160705536/VhioFBZE_normal.jpg' />
@@ -88,16 +99,6 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 </a>
 
 
-
-<h2></h2><a href='https://twitter.com/jubarajmukherje'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284494241465434114/pI_Xc1vG_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/jubarajmukherje'>
-    Jubaraj Mukherjee
-</a>
-
-Computer Applications student at The Heritage Academy // Electronics & IoT enthusiast // Learning Python // 👨🏽‍💻
 
 <h2></h2>
 
