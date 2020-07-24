@@ -47,9 +47,19 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _259_
 
-<a href='https://twitter.com/commanderquest'>
+<a href='https://twitter.com/natterstefan'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/natterstefan'>
+    Stefan Natter 🇦🇹👋🏻
+</a>
+
+I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️ | 📧 https://t.co/Jpwh9TFgNx (🐈🐈 🤵👰🏻 🇦🇹)
+
+<h2></h2><a href='https://twitter.com/commanderquest'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1243185628864528384/eFnPWZyC_normal.jpg' />
 </a>
 
@@ -89,16 +99,6 @@ software engineer at @soonastudios. career switcher. vue + rails. tweeting about
 </a>
 
 Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investor | Tweets are my own opinions
-
-<h2></h2><a href='https://twitter.com/MoBaJS'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284907113890885635/lQWWKawj_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/MoBaJS'>
-    Do you speak JavaScript?
-</a>
-
-
 
 <h2></h2>
 
