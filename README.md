@@ -47,17 +47,27 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _256_
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _257_
 
-<a href='https://twitter.com/tucker_dev'>
+<a href='https://twitter.com/benjaminwardcom'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1283469746055385088/sr9ZExwG_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/benjaminwardcom'>
+    Benjamin Ward
+</a>
+
+software engineer, avid reader and writer, Star Wars fanatic, learning enthusiast
+
+<h2></h2><a href='https://twitter.com/tucker_dev'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284727066160705536/VhioFBZE_normal.jpg' />
 </a>
 
 <a href='https://twitter.com/tucker_dev'>
-    James Tucker 🚀
+    James Tucker
 </a>
 
-software engineer at @soonastudios. career switcher. vue + rails. tweeting about tech, books, startups, and big ideas.
+software engineer at @soonastudios. career switcher. vue + rails. tweeting about tech, books, startups, and big ideas. writing @ https://t.co/SPyap1XFWD. he/him
 
 <h2></h2><a href='https://twitter.com/BenGuthmiller'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284966756906409984/MR0a9hi2_normal.jpg' />
@@ -88,16 +98,6 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 </a>
 
 Computer Applications student at The Heritage Academy // Electronics & IoT enthusiast // Learning Python // 👨🏽‍💻
-
-<h2></h2><a href='https://twitter.com/Bennyboy_JP'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1286244478248865792/RUsoElPN_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/Bennyboy_JP'>
-    bennyBoy_JP
-</a>
-
-🌑🌒🌓🌔🌕🌖🌗🌘🌑
 
 <h2></h2>
 
