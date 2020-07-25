@@ -46,7 +46,7 @@ jobs:
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        file_pattern: README.md
+        file_pattern: follower.svg
         commit_message: Add Latest Follower
         commit_user_name: Follower Bot
         commit_user_email: follower-bot@waylonwalker.com

@@ -42,7 +42,9 @@ def render_follower(follower, follower_template_file="template/follower.md"):
 
 
 def render_readme(
-    api, template_file="template/README.md", follower_template="template/follower.md"
+    api,
+    template_file="template/follower.svg",
+    follower_template="template/follower.html",
 ):
     """Render readme with twitter follower."""
 
@@ -65,5 +67,5 @@ def render_readme(
 if __name__ == "__main__":
     api = get_api()
     readme = render_readme(api)
-    with open("README.md", "w+") as f:
+    with open("follower.svg", "w+") as f:
         f.write(readme)
