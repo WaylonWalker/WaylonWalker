@@ -21,7 +21,7 @@
             left: -800px;
           }
           68% {
-            left: -1600;
+            left: -1600px;
           }
           97% {
             left: -1600px
@@ -164,7 +164,6 @@
             <li>
     <h2>
         <a href='https://twitter.com/natterstefan'>
-            Stefan Natter 🇦🇹👋🏻 - natterstefan
             <span class='name'>Stefan Natter 🇦🇹👋🏻</span><span class='screen-name'>natterstefan</span>
         </a>
     </h2>
@@ -175,7 +174,6 @@
 </li><li>
     <h2>
         <a href='https://twitter.com/commanderquest'>
-            Commander Quest - commanderquest
             <span class='name'>Commander Quest</span><span class='screen-name'>commanderquest</span>
         </a>
     </h2>
@@ -187,7 +185,6 @@ Follow my adventures at Club Freelance's Mission Control Center 👉 https://t.c
 </li><li>
     <h2>
         <a href='https://twitter.com/benjaminwardcom'>
-            Benjamin Ward - benjaminwardcom
             <span class='name'>Benjamin Ward</span><span class='screen-name'>benjaminwardcom</span>
         </a>
     </h2>
