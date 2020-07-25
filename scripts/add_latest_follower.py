@@ -27,7 +27,7 @@ def get_api():
     return api
 
 
-def render_follower(follower, follower_template_file="template/follower.md"):
+def render_follower(follower, follower_template_file="template/follower.html"):
     with open(follower_template_file) as f:
         follower_template = Template(f.read())
 
@@ -49,7 +49,7 @@ def render_readme(
     """Render readme with twitter follower."""
 
     latest_followers = "".join(
-        [render_follower(follower) for follower in api.followers(count=5)]
+        [render_follower(follower) for follower in api.followers(count=3)]
     )
 
     me = api.get_user("_waylonwalker")
