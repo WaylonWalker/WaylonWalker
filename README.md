@@ -46,6 +46,10 @@ I write about things I am familiar with, things that trip up folks that I mentor
 💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
 ---
+
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+
+
 <!--
 ## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
 
