@@ -78,7 +78,7 @@ Follow my adventures at Club Freelance's Mission Control Center 👉 https://t.c
     Benjamin Ward
 </a>
 
-software engineer, dev coach, Star Wars fanatic, learning enthusiast, host of the Download Knowledge Podcast
+software engineer, dev coach, Star Wars fanatic, learning enthusiast, host of the Download Knowledge Podcast https://t.co/V2bIR93cQW
 
 <h2></h2><a href='https://twitter.com/tucker_dev'>
   <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284727066160705536/VhioFBZE_normal.jpg' />
