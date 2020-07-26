@@ -163,19 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
-        <a href='https://twitter.com/raidoninc'>
-            <span class='name'>Ryan Eghrari</span><span class='screen-name'>@raidoninc</span>
+        <a href='https://twitter.com/PaulieScanlon'>
+            <span class='name'>Paul Scanlon 👨🏻‍💻</span><span class='screen-name'>@PaulieScanlon</span>
         </a>
     </h2>
 
     <p>
-        Helping companies automate with the web.
+        Front End UI Developer (contract)  React, Gatsby, JavaScript, TypeScript, StyledComponents, Storybook, TDD (Jest/Enzyme/Testing Library)
     </p>
 </li>
 <li>
     <h2>
-        <a href='https://twitter.com/hal7011'>
-            <span class='name'>rickdeck</span><span class='screen-name'>@hal7011</span>
+        <a href='https://twitter.com/odularu_tobi'>
+            <span class='name'>Odularu tobi</span><span class='screen-name'>@odularu_tobi</span>
         </a>
     </h2>
 
@@ -185,13 +185,13 @@
 </li>
 <li>
     <h2>
-        <a href='https://twitter.com/GaganGulyani'>
-            <span class='name'>Gagan Gulyani</span><span class='screen-name'>@GaganGulyani</span>
+        <a href='https://twitter.com/raidoninc'>
+            <span class='name'>Ryan Eghrari</span><span class='screen-name'>@raidoninc</span>
         </a>
     </h2>
 
     <p>
-        I tweet about Python 🐍 and my coding journey 👨🏻‍💻.
+        Helping companies automate with the web.
     </p>
 </li>
 
