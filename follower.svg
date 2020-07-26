@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/rrobertdellima'>
+            <span class='name'>Robert de Lima Rodrigues</span><span class='screen-name'>@rrobertdellima</span>
+        </a>
+    </h2>
+
+    <p>
+        Administrative Assistant | Self-taught | Learning to Code
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/PaulieScanlon'>
             <span class='name'>Paul Scanlon 👨🏻‍💻</span><span class='screen-name'>@PaulieScanlon</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/raidoninc'>
-            <span class='name'>Ryan Eghrari</span><span class='screen-name'>@raidoninc</span>
-        </a>
-    </h2>
-
-    <p>
-        Helping companies automate with the web.
     </p>
 </li>
 
