@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/ArchieSakai'>
+            <span class='name'>Archie 🐱 akihisa</span><span class='screen-name'>@ArchieSakai</span>
+        </a>
+    </h2>
+
+    <p>
+        27🇯🇵 CEO of SOARHAP, Inc. WebDev → GameDev. I develop 365 days of the year. #reactjs #reactnative #vuejs #unity #indieGameDev #cSharp
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/zowhair'>
+            <span class='name'>Zuhair</span><span class='screen-name'>@zowhair</span>
+        </a>
+    </h2>
+
+    <p>
+        C++, Js | React | PWA
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/fanny_codes'>
             <span class='name'>Fanny Nyayic</span><span class='screen-name'>@fanny_codes</span>
         </a>
@@ -170,32 +192,6 @@
 
     <p>
         Software Developer. #JavaScript #NodeJS #VueJs #100DaysofCode
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Dev_SR_Biplob'>
-            <span class='name'>Sadekur Rahaman</span><span class='screen-name'>@Dev_SR_Biplob</span>
-        </a>
-    </h2>
-
-    <p>
-        Passionate about coding, enthusiastic to learn and create.
-Web developer and adding more skill with developing. 
-Likes to capture moments and play chess
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/CouponLearning'>
-            <span class='name'>DataCamp Offers</span><span class='screen-name'>@CouponLearning</span>
-        </a>
-    </h2>
-
-    <p>
-        Improve in your Job.
-You'll learn hands on #coding & quickly apply skills to your work.
-Offer courses in #Python, #R, #SQL, #spreadsheet, BI tools and theory.
     </p>
 </li>
 
