@@ -163,13 +163,26 @@
         <ul class='followers'>
             <li>
     <h2>
-        <a href='https://twitter.com/skeetervalenti4'>
-            <span class='name'>skeetervalentine</span><span class='screen-name'>@skeetervalenti4</span>
+        <a href='https://twitter.com/fanny_codes'>
+            <span class='name'>Fanny Nyayic</span><span class='screen-name'>@fanny_codes</span>
         </a>
     </h2>
 
     <p>
-        Self taught React.js developer soaking up knowledge through the little blue bird
+        Software Developer. #JavaScript #NodeJS #VueJs #100DaysofCode
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/Dev_SR_Biplob'>
+            <span class='name'>Sadekur Rahaman</span><span class='screen-name'>@Dev_SR_Biplob</span>
+        </a>
+    </h2>
+
+    <p>
+        Passionate about coding, enthusiastic to learn and create.
+Web developer and adding more skill with developing. 
+Likes to capture moments and play chess
     </p>
 </li>
 <li>
@@ -183,17 +196,6 @@
         Improve in your Job.
 You'll learn hands on #coding & quickly apply skills to your work.
 Offer courses in #Python, #R, #SQL, #spreadsheet, BI tools and theory.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/vyomguptaa'>
-            <span class='name'>Vyom Gupta</span><span class='screen-name'>@vyomguptaa</span>
-        </a>
-    </h2>
-
-    <p>
-        Aspiring Web Developer 👨‍💻 || Indian🇮🇳 ||18|| Optimist ||❤️#JavaScript||
     </p>
 </li>
 
