@@ -163,13 +163,24 @@
         <ul class='followers'>
             <li>
     <h2>
-        <a href='https://twitter.com/ArchieSakai'>
-            <span class='name'>Archie 🐱 akihisa</span><span class='screen-name'>@ArchieSakai</span>
+        <a href='https://twitter.com/jackdomleo7'>
+            <span class='name'>Jack Domleo</span><span class='screen-name'>@jackdomleo7</span>
         </a>
     </h2>
 
     <p>
-        27🇯🇵 CEO of SOARHAP, Inc. WebDev → GameDev. I develop 365 days of the year. #reactjs #reactnative #vuejs #unity #indieGameDev #cSharp
+        🇬🇧 Front-end Developer 💻 | Vue.js | Here to inspire! 💡 | #NoPreviewHtmlCss | Blogger 📝 | Thinker 🤔 | St-st-stutterer 🗣 | Learning 🇩🇪
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/Mr_FrancisLee'>
+            <span class='name'>Francis Lee</span><span class='screen-name'>@Mr_FrancisLee</span>
+        </a>
+    </h2>
+
+    <p>
+        “Google only loves you when everyone else loves you first.” – Wendy Piersall #SEOLife #TechLife #MarketingItis
     </p>
 </li>
 <li>
@@ -181,17 +192,6 @@
 
     <p>
         C++, Js | React | PWA
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/fanny_codes'>
-            <span class='name'>Fanny Nyayic</span><span class='screen-name'>@fanny_codes</span>
-        </a>
-    </h2>
-
-    <p>
-        Software Developer. #JavaScript #NodeJS #VueJs #100DaysofCode
     </p>
 </li>
 
