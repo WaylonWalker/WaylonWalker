@@ -163,6 +163,30 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/haysstanford'>
+            <span class='name'>Hays Stanford 🏜️</span><span class='screen-name'>@haysstanford</span>
+        </a>
+    </h2>
+
+    <p>
+        👨‍💻 Software developer. 👨‍🔬 @UTAustin Physics alum. 🌌 Working hard for a better world. 
+
+Clone Uber with React Native. Link below 👇
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/Canberkbalci9'>
+            <span class='name'>Canberk balcı</span><span class='screen-name'>@Canberkbalci9</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/bcnzer'>
             <span class='name'>Ben Chartrand</span><span class='screen-name'>@bcnzer</span>
         </a>
@@ -170,28 +194,6 @@
 
     <p>
         Software developer, fan of all things #serverless and @vuejs. Science and history geek. Philomath. Loves indie bookshops. Volunteer teaching kids coding.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/SherazK27074298'>
-            <span class='name'>Sheraz Khan</span><span class='screen-name'>@SherazK27074298</span>
-        </a>
-    </h2>
-
-    <p>
-        I am who I am, I am who I am, I do what I do and I am never going to be any different.  I don't care who likes and who doesn't.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/TestProject_io'>
-            <span class='name'>TestProject</span><span class='screen-name'>@TestProject_io</span>
-        </a>
-    </h2>
-
-    <p>
-        TestProject is a free end-to-end test automation platform for web, mobile, and API testing that’s supported by the #1 test automation community.
     </p>
 </li>
 
