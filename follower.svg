@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/annabe1e'>
+            <span class='name'>Annabelle  👩🏻‍💻  ✨  🌷</span><span class='screen-name'>@annabe1e</span>
+        </a>
+    </h2>
+
+    <p>
+        #WomenWhoCode Frontend Web Developer crafting websites with #Angular committed to #100daysofcode
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Goremotech'>
             <span class='name'>Goremote</span><span class='screen-name'>@Goremotech</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         One (more) observation on money. With a little help from data+philosophy+psychology. Not a bot - I just find anonymity freeing.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/iAnuragKale'>
-            <span class='name'>Anurag Kale</span><span class='screen-name'>@iAnuragKale</span>
-        </a>
-    </h2>
-
-    <p>
-        Helping people and companies embrace Cloud☁️.Builds data models for SQL/NoSQL DBs.Co-organiser @AWSPune. #AWSCertified. AWS Community Builder
     </p>
 </li>
 
