@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/unyimedominice'>
+            <span class='name'>Midas</span><span class='screen-name'>@unyimedominice</span>
+        </a>
+    </h2>
+
+    <p>
+        Enigma ⚡️
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/MiguelMAcosta'>
             <span class='name'>Miguel M. Acosta</span><span class='screen-name'>@MiguelMAcosta</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Just a student
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/ArchieSakai'>
-            <span class='name'>Archie (Akihisa Sakai)🐱IndieGameDev</span><span class='screen-name'>@ArchieSakai</span>
-        </a>
-    </h2>
-
-    <p>
-        27🇯🇵 CEO of SOARHAP, Inc. WebDev → GameDev. I develop 365 days of the year. #reactjs #typescript #unity #indieGameDev #cSharp
     </p>
 </li>
 
