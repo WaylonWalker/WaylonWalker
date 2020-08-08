@@ -163,6 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/uptownaravi'>
+            <span class='name'>Harish</span><span class='screen-name'>@uptownaravi</span>
+        </a>
+    </h2>
+
+    <p>
+        Cloud & DevOps engineer |
+love the cloud | serverless | Alexa - VoiceUI | Learning everyday |
+Tweets around #aws #alexa #serverless #webdevelopment
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/kalimero2510'>
             <span class='name'>Kalimero</span><span class='screen-name'>@kalimero2510</span>
         </a>
@@ -181,17 +194,6 @@
 
     <p>
         Conference for Quality testing - all roles. We invite everyone using open source tools within quality testing to join and learn from each other
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/SanjayKumaarr'>
-            <span class='name'>Sanjay Kumar, SelectorsHub Creator</span><span class='screen-name'>@SanjayKumaarr</span>
-        </a>
-    </h2>
-
-    <p>
-        Inventor & Creator @SelectorsHub, @ChroPath
     </p>
 </li>
 
