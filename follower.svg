@@ -163,6 +163,18 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/cmacdonnacha'>
+            <span class='name'>Cathal Mac Donnacha</span><span class='screen-name'>@cmacdonnacha</span>
+        </a>
+    </h2>
+
+    <p>
+        Frontend Developer who has a passion for sensible user interfaces 💻  Creator of https://t.co/pRwVfNeEqn 🏃
+I also make travel videos on YouTube 🌴
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/OliviaA11702815'>
             <span class='name'>Olivia Ava</span><span class='screen-name'>@OliviaA11702815</span>
         </a>
@@ -181,19 +193,6 @@
 
     <p>
         Follow us for the latest testing trends
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/uptownaravi'>
-            <span class='name'>Harish</span><span class='screen-name'>@uptownaravi</span>
-        </a>
-    </h2>
-
-    <p>
-        Cloud & DevOps engineer |
-love the cloud | serverless | Alexa - VoiceUI | Learning everyday |
-Tweets around #aws #alexa #serverless #webdevelopment
     </p>
 </li>
 
