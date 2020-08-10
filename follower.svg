@@ -163,6 +163,20 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/madyanalj'>
+            <span class='name'>Madyan 👨‍💻</span><span class='screen-name'>@madyanalj</span>
+        </a>
+    </h2>
+
+    <p>
+        Turning coffee into code since '13 🌱 He/Him
+#TypeScript #React #Node
+#FunctionalProgramming #DomainDrivenDesign
+Blog: https://t.co/aUEePwVvWA ✍️
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/cmacdonnacha'>
             <span class='name'>Cathal Mac Donnacha</span><span class='screen-name'>@cmacdonnacha</span>
         </a>
@@ -182,17 +196,6 @@ I also make travel videos on YouTube 🌴
 
     <p>
         I am a simple person. I love traveling. I want to connect with people of different parts of this world. I love to make friends. I give importance to my friends.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/testing_trends'>
-            <span class='name'>TestingTrends</span><span class='screen-name'>@testing_trends</span>
-        </a>
-    </h2>
-
-    <p>
-        Follow us for the latest testing trends
     </p>
 </li>
 
