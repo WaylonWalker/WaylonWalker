@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/brunoraljic'>
+            <span class='name'>Bruno says ✍️</span><span class='screen-name'>@brunoraljic</span>
+        </a>
+    </h2>
+
+    <p>
+        Dev for ~10 yrs • Tweeting things that can convince you to launch that side project • Blogger • Enjoy giving feedback • Wrote Docker course https://t.co/8qJLrUv5ge
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/Iggy_Lakic'>
+            <span class='name'>Igor Lakić</span><span class='screen-name'>@Iggy_Lakic</span>
+        </a>
+    </h2>
+
+    <p>
+        (Drupal) Front-End Developer💻, Linux enthusiast🐧, (Neo)Vim fan👨‍💻, guitar geek🎸
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/madyanalj'>
             <span class='name'>Madyan 👨‍💻</span><span class='screen-name'>@madyanalj</span>
         </a>
@@ -173,29 +195,6 @@
 #TypeScript #React #Node
 #FunctionalProgramming #DomainDrivenDesign
 Blog: https://t.co/aUEePwVvWA ✍️
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/cmacdonnacha'>
-            <span class='name'>Cathal Mac Donnacha</span><span class='screen-name'>@cmacdonnacha</span>
-        </a>
-    </h2>
-
-    <p>
-        Frontend Developer who has a passion for sensible user interfaces 💻  Creator of https://t.co/pRwVfNeEqn 🏃
-I also make travel videos on YouTube 🌴
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/OliviaA11702815'>
-            <span class='name'>Olivia Ava</span><span class='screen-name'>@OliviaA11702815</span>
-        </a>
-    </h2>
-
-    <p>
-        I am a simple person. I love traveling. I want to connect with people of different parts of this world. I love to make friends. I give importance to my friends.
     </p>
 </li>
 
