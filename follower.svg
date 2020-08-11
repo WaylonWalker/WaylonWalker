@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/waynejwerner'>
+            <span class='name'>Wayne Werner</span><span class='screen-name'>@waynejwerner</span>
+        </a>
+    </h2>
+
+    <p>
+        Pythonista, Linux geek, Gamer, Artist, DIYer, and all-around-geek. He/him
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/benjaminwardcom'>
+            <span class='name'>Benjamin Ward</span><span class='screen-name'>@benjaminwardcom</span>
+        </a>
+    </h2>
+
+    <p>
+        software engineer, Star Wars fanatic, 🐈 🐈 🐈 https://t.co/RbNenp1PVv
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/brunoraljic'>
             <span class='name'>Bruno says ✍️</span><span class='screen-name'>@brunoraljic</span>
         </a>
@@ -170,31 +192,6 @@
 
     <p>
         Dev for ~10 yrs • Tweeting things that can convince you to launch that side project • Blogger • Enjoy giving feedback • Wrote Docker course https://t.co/8qJLrUv5ge
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Iggy_Lakic'>
-            <span class='name'>Igor Lakić</span><span class='screen-name'>@Iggy_Lakic</span>
-        </a>
-    </h2>
-
-    <p>
-        (Drupal) Front-End Developer💻, Linux enthusiast🐧, (Neo)Vim fan👨‍💻, guitar geek🎸
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/madyanalj'>
-            <span class='name'>Madyan 👨‍💻</span><span class='screen-name'>@madyanalj</span>
-        </a>
-    </h2>
-
-    <p>
-        Turning coffee into code since '13 🌱 He/Him
-#TypeScript #React #Node
-#FunctionalProgramming #DomainDrivenDesign
-Blog: https://t.co/aUEePwVvWA ✍️
     </p>
 </li>
 
