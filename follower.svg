@@ -163,6 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/_ManthanPatel'>
+            <span class='name'>Patel Manthan</span><span class='screen-name'>@_ManthanPatel</span>
+        </a>
+    </h2>
+
+    <p>
+        21y/o Nerd, Python 🐍 enthusiast | Django | Flask. I love to build cloud☁️ Products.
+
+#100daysofcode #python  #CodeNewbie
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/pollock'>
             <span class='name'>Tristan Pollock</span><span class='screen-name'>@pollock</span>
         </a>
@@ -181,17 +194,6 @@
 
     <p>
         Pythonista, Linux geek, Gamer, Artist, DIYer, and all-around-geek. He/him
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/benjaminwardcom'>
-            <span class='name'>Benjamin Ward</span><span class='screen-name'>@benjaminwardcom</span>
-        </a>
-    </h2>
-
-    <p>
-        software engineer, Star Wars fanatic, 🐈 🐈 🐈 https://t.co/RbNenp1PVv
     </p>
 </li>
 
