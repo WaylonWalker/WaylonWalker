@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/zhezui727'>
+            <span class='name'>Zhe Cui</span><span class='screen-name'>@zhezui727</span>
+        </a>
+    </h2>
+
+    <p>
+        I am a professional mobile developer
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/DailyDevTips1'>
             <span class='name'>Chris Bongers 🤓💻⚡️</span><span class='screen-name'>@DailyDevTips1</span>
         </a>
@@ -182,18 +193,6 @@ Daily Dev Tips 🔥
 
     <p>
         Web Designer / Developer who loves cows, Sims 4 & tea. #DEVCommunity #CodeNewbie #WomenInTech #WomenWhoCode #VNDev
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/_diogorodrigues'>
-            <span class='name'>Diogo Rodrigues</span><span class='screen-name'>@_diogorodrigues</span>
-        </a>
-    </h2>
-
-    <p>
-        A front-end designer who loves pixels, code and plays the violin for fun! :)
-Read more about me: https://t.co/wEw9nvDNrq
     </p>
 </li>
 
