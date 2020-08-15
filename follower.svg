@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/dovhanrg'>
+            <span class='name'>rgd</span><span class='screen-name'>@dovhanrg</span>
+        </a>
+    </h2>
+
+    <p>
+        omega
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/catalinmpit'>
+            <span class='name'>Catalin Pit</span><span class='screen-name'>@catalinmpit</span>
+        </a>
+    </h2>
+
+    <p>
+        Software Engineer ∙ Content creator ∙ Writing on https://t.co/UI0poSrhM2 ✍️  ∙ Tools agnostic
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/zhezui727'>
             <span class='name'>Zhe Cui</span><span class='screen-name'>@zhezui727</span>
         </a>
@@ -170,29 +192,6 @@
 
     <p>
         I am a professional mobile developer
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/DailyDevTips1'>
-            <span class='name'>Chris Bongers 🤓💻⚡️</span><span class='screen-name'>@DailyDevTips1</span>
-        </a>
-    </h2>
-
-    <p>
-        I write daily development tips to contribute to the development community!
-Daily Dev Tips 🔥
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/redlotusdesignz'>
-            <span class='name'>Diana Chin</span><span class='screen-name'>@redlotusdesignz</span>
-        </a>
-    </h2>
-
-    <p>
-        Web Designer / Developer who loves cows, Sims 4 & tea. #DEVCommunity #CodeNewbie #WomenInTech #WomenWhoCode #VNDev
     </p>
 </li>
 
