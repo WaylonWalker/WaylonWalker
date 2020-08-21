@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/tomaszs2'>
+            <span class='name'>📊Tomasz Smykowski📊</span><span class='screen-name'>@tomaszs2</span>
+        </a>
+    </h2>
+
+    <p>
+        Senior Software Development Consultant🚩 2% StackOverflow 🌍, over 1kk views on Quora 🏢 IT Engineer 👤 Editor, blogger, podcaster, books author
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/adityasriganesh'>
             <span class='name'>Aditya Sriganesh</span><span class='screen-name'>@adityasriganesh</span>
         </a>
@@ -181,20 +192,6 @@
 
     <p>
         Data scientist. Lifelong musician. New dad.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/craazyplatelady'>
-            <span class='name'>Monica Bing</span><span class='screen-name'>@craazyplatelady</span>
-        </a>
-    </h2>
-
-    <p>
-        21. Coder ;)
-
-I hate remembering stuff, so i make my models do that for me 🤭
-#100DaysOfCode
     </p>
 </li>
 
