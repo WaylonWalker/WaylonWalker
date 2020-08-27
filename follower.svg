@@ -163,6 +163,18 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/SomaByapari'>
+            <span class='name'>Soma🌸</span><span class='screen-name'>@SomaByapari</span>
+        </a>
+    </h2>
+
+    <p>
+        Electronics Engineer. learning to code and create. Python. JavaScript. coffee and naps. #100daysofcode #codenewbie
+enthusiast. 👩‍💻
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/killercoder_io'>
             <span class='name'>KillerCoder.io</span><span class='screen-name'>@killercoder_io</span>
         </a>
@@ -181,17 +193,6 @@
 
     <p>
         MSc Software Engineer | Fullstack Developer (JavaScript lover) 💻 React | NodeJS | MongoDB | Dogs 🐶 - Always Learning
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/MatasRastenis'>
-            <span class='name'>Matas Rastenis</span><span class='screen-name'>@MatasRastenis</span>
-        </a>
-    </h2>
-
-    <p>
-        Co-Founder at Hefa丨Software Engineer at Yuki丨Lead at Google Developer Student Club Delft丨CSE Student at TU Delft
     </p>
 </li>
 
