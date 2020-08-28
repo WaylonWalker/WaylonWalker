@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/stacibergstrom'>
+            <span class='name'>Staci Bergstrom</span><span class='screen-name'>@stacibergstrom</span>
+        </a>
+    </h2>
+
+    <p>
+        Wife. Mom. Fortune 100 employee. Saint Mary's Grad. Notre Dame fan. Go Cubs Go. 🐻⬇️ All opinions are my own.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/patarapolw'>
             <span class='name'>Pol Withaya M.D.</span><span class='screen-name'>@patarapolw</span>
         </a>
@@ -182,17 +193,6 @@
     <p>
         Electronics Engineer. learning to code and create. Python. JavaScript. coffee and naps. #100daysofcode #codenewbie
 enthusiast. 👩‍💻
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/killercoder_io'>
-            <span class='name'>KillerCoder.io</span><span class='screen-name'>@killercoder_io</span>
-        </a>
-    </h2>
-
-    <p>
-        https://t.co/lCiJsL9buR is a fast-growing testing platform to technically test developers across your organization.
     </p>
 </li>
 
