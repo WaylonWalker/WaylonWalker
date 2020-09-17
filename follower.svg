@@ -163,6 +163,30 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/DevSedated'>
+            <span class='name'>The Sedated Dev</span><span class='screen-name'>@DevSedated</span>
+        </a>
+    </h2>
+
+    <p>
+        An individual dev here, focusing on learning new tech stacks and to teach what I know through various medium
+
+#coding #learning #teaching
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/minhtuan0201'>
+            <span class='name'>xlamb</span><span class='screen-name'>@minhtuan0201</span>
+        </a>
+    </h2>
+
+    <p>
+        An average folk.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/magne_io'>
             <span class='name'>magne.io</span><span class='screen-name'>@magne_io</span>
         </a>
@@ -170,28 +194,6 @@
 
     <p>
         Building bridges between tech, human and the whole. @medium publication.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/AIjedi'>
-            <span class='name'>Richard Decal</span><span class='screen-name'>@AIjedi</span>
-        </a>
-    </h2>
-
-    <p>
-        ML Lead @DendraSystems. AI for #ClimateChange and ecosystem restoration, #DronesForGood
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/nickparsons'>
-            <span class='name'>Nick Parsons 🚀</span><span class='screen-name'>@nickparsons</span>
-        </a>
-    </h2>
-
-    <p>
-        Director of Developer Marketing / #DevRel 🥑 @GetStream_io / All about that open-source 🤓
     </p>
 </li>
 
