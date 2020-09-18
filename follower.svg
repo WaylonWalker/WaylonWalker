@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/yalco_dev'>
+            <span class='name'>yalco_dev</span><span class='screen-name'>@yalco_dev</span>
+        </a>
+    </h2>
+
+    <p>
+        Full stack developer X designer.  I personally design and sell gifts & merchandise for developers.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/DevSedated'>
             <span class='name'>The Sedated Dev</span><span class='screen-name'>@DevSedated</span>
         </a>
@@ -183,17 +194,6 @@
 
     <p>
         An average folk.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/magne_io'>
-            <span class='name'>magne.io</span><span class='screen-name'>@magne_io</span>
-        </a>
-    </h2>
-
-    <p>
-        Building bridges between tech, human and the whole. @medium publication.
     </p>
 </li>
 
