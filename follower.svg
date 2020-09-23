@@ -163,6 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/abuggia'>
+            <span class='name'>Adam Buggia</span><span class='screen-name'>@abuggia</span>
+        </a>
+    </h2>
+
+    <p>
+        CPO @ Sym
+@symops
+#blacklivesmatter
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/yalco_dev'>
             <span class='name'>yalco_dev</span><span class='screen-name'>@yalco_dev</span>
         </a>
@@ -183,17 +196,6 @@
         An individual dev here, focusing on learning new tech stacks and to teach what I know through various medium
 
 #coding #learning #teaching
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/minhtuan0201'>
-            <span class='name'>xlamb</span><span class='screen-name'>@minhtuan0201</span>
-        </a>
-    </h2>
-
-    <p>
-        An average folk.
     </p>
 </li>
 
