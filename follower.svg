@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/921kiyo'>
+            <span class='name'>Kiyo</span><span class='screen-name'>@921kiyo</span>
+        </a>
+    </h2>
+
+    <p>
+        I am a programmer with strong interest in AI/ML. Lived in Tokyo → Edinburgh → currently in London. Opinions are my own.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/abuggia'>
             <span class='name'>Adam Buggia</span><span class='screen-name'>@abuggia</span>
         </a>
@@ -183,19 +194,6 @@
 
     <p>
         Full stack developer X designer.  I personally design and sell gifts & merchandise for developers.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/DevSedated'>
-            <span class='name'>The Sedated Dev</span><span class='screen-name'>@DevSedated</span>
-        </a>
-    </h2>
-
-    <p>
-        An individual dev here, focusing on learning new tech stacks and to teach what I know through various medium
-
-#coding #learning #teaching
     </p>
 </li>
 
