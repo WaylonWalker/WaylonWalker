@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/l3lackCurtains'>
+            <span class='name'>Madhav Poudel</span><span class='screen-name'>@l3lackCurtains</span>
+        </a>
+    </h2>
+
+    <p>
+        // Full stack Developer 🦄 #javascript #react #nodejs #python #golang #docker #cplusplus #cuda #cryptography #cybersecurity // https://t.co/u1VCQdYYXQ
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/LSTMeow'>
             <span class='name'>Ariel Biller 🚂🚃📊🚃📉🚃</span><span class='screen-name'>@LSTMeow</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Dot connecter. Armoured bear.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/MikePearmain'>
-            <span class='name'>Michael Pearmain</span><span class='screen-name'>@MikePearmain</span>
-        </a>
-    </h2>
-
-    <p>
-        I like data science and cake
     </p>
 </li>
 
