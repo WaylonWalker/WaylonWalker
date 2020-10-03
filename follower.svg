@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/danieltorkura'>
+            <span class='name'>Daniel Torkura</span><span class='screen-name'>@danieltorkura</span>
+        </a>
+    </h2>
+
+    <p>
+        Product Scientist.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/l3lackCurtains'>
             <span class='name'>Madhav Poudel</span><span class='screen-name'>@l3lackCurtains</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Evangelist @ AllegroAI. TRAINS enthusiast. Open source, open DM. he/him.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/lohit_369'>
-            <span class='name'>Lohit</span><span class='screen-name'>@lohit_369</span>
-        </a>
-    </h2>
-
-    <p>
-        Dot connecter. Armoured bear.
     </p>
 </li>
 
