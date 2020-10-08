@@ -98,7 +98,7 @@
             <div class='loader'></div>
         <ul class='stories'>
         <li>
-        <img src='https://waylonwalker.com/stories/quick-tdb.png' alt='story one'/>
+        <img href='https://waylonwalker.com/stories/quick-tdb.png' alt='story one'/>
         </li>
         <li>
         <img src='https://waylonwalker.com/stories/running-ci-for-hacktoberfest-kedro.png?raw=true' alt='story one'/>
