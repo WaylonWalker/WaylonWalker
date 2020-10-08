@@ -114,8 +114,12 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
 		<img src="follower.svg" width="800" height="400">
 	</a>
-	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/stories.svg">
-		<img src="stories.svg" width="800" height="750">
-	</a>
-	<br>
 </div>
+
+## Latest Stories
+
+<p float="left">
+        <img src='https://waylonwalker.com/stories/quick-tdb.png' alt='story one' width='250'/>
+        <img src='https://waylonwalker.com/stories/running-ci-for-hacktoberfest-kedro.png?raw=true' alt='story one' width='250'/>
+        <img src='https://waylonwalker.com/stories/power-is-nothing-without-control.png?raw=true' alt='story one' width='250'/>
+</p>
