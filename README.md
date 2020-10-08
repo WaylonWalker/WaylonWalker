@@ -116,11 +116,9 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 	</a>
 </div>
 
-## Latest Stories
+## Latest Story
 <p align='center'>
 <p float="left">
-        <img src='https://waylonwalker.com/stories/quick-tdb.png' alt='story one' width='280'/>
-        <img src='https://waylonwalker.com/stories/running-ci-for-hacktoberfest-kedro.png?raw=true' alt='story one' width='280'/>
-        <img src='https://waylonwalker.com/stories/power-is-nothing-without-control.png?raw=true' alt='story one' width='280'/>
+        <img src='https://waylonwalker.com/stories/new-post-designing-kedro-router.png' alt='story one' width='280'/>
 </p>
 </p>
