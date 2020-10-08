@@ -1,0 +1,113 @@
+<svg fill="none" viewBox="0 0 854 750" width="854" height="722" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+
+        
+        @keyframes scroll {
+          0% {
+            left: 400px;
+          }
+          3% {
+            left: 0px;
+          }
+          30% {
+            left: 0px;
+          }
+          36% {
+            left: -800px;
+          }
+          64% {
+            left: -800px;
+          }
+          68% {
+            left: -1600px;
+          }
+          97% {
+            left: -1600px
+          }
+          100% {
+            left: -2000px
+          }
+        }
+
+
+        ul.stories {
+        margin: 0;
+        padding: 0 2rem;
+          position: absolute;
+          list-style-type: none;
+          display: flex;
+          <!-- margin-top: 100px; -->
+          justify-content: space-around;
+          width: 2400px;
+          animation: scroll 30s cubic-bezier(.22,.91,.84,1.06) infinite;
+
+        }
+        ul.stories li {
+        margin: 0;
+          width: 854px;
+          padding: 0 8rem;
+        }
+        ul.stories a {
+          text-decoration: none;
+          color: rgba(255, 255, 255, 0.83);
+        }
+
+
+
+        .container {
+          <!-- background: #18222E; -->
+          height: 100%;
+          width: 100%;
+          height: 800px;
+          width: 834px;
+          color: rgba(255, 255, 255, 0.77);
+          border: 5px solid transparent;
+          <!-- border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+          border-image: linear-gradient(to bottom right, #FF66C4 0%, #8C52FF 100%); -->
+
+          border-image-slice: 1;
+        }
+
+        .stories img {
+            max-width: 400px;
+        }
+
+        @keyframes loader {
+            0% {
+                left: -854px;
+            }
+            100% {
+                left: 0px;
+
+            }
+        }
+        .loader {
+            height: 10px;
+            top: 740px;
+            left: -200px;
+            background: pink;
+            background: linear-gradient(to bottom right, #FF66C4 0%, #8C52FF 100%);
+            position: relative;
+            animation: loader linear 10s infinite;
+        }
+
+			</style>
+			<div class="container">
+            <div class='loader'></div>
+        <ul class='stories'>
+        <li>
+        <img src='https://github.com/WaylonWalker/waylonwalkerv2/blob/main/static/stories/quick-tdb.png?raw=true' alt='story one'/>
+        </li>
+        <li>
+        <img src='https://github.com/WaylonWalker/waylonwalkerv2/blob/main/static/stories/running-ci-for-hacktoberfest-kedro.png?raw=true' alt='story one'/>
+        </li>
+        <li>
+        <img src='https://github.com/WaylonWalker/waylonwalkerv2/blob/main/static/stories/power-is-nothing-without-control.png?raw=true' alt='story one'/>
+        </li>
+        </ul>
+		</div>
+		</div>
+	</foreignObject>
+</svg>

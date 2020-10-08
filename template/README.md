@@ -51,6 +51,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ${latest_followers}
 
-<p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
+<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/stories.svg">
+  <img src="stories.svg" width="800" height="750">
+</a>
