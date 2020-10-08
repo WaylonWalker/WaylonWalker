@@ -21,7 +21,7 @@
             left: -800px;
           }
           68% {
-            left: -1600;
+            left: -1600px;
           }
           97% {
             left: -1600px
@@ -163,39 +163,41 @@
         <ul class='followers'>
             <li>
     <h2>
-        <a href='https://twitter.com/natterstefan'>
-            Stefan Natter 🇦🇹👋🏻 - natterstefan
-            <span class='name'>Stefan Natter 🇦🇹👋🏻</span><span class='screen-name'>natterstefan</span>
+        <a href='https://twitter.com/BigDataJunkies'>
+            <span class='name'>Big Data Junkies</span><span class='screen-name'>@BigDataJunkies</span>
         </a>
     </h2>
 
     <p>
-        I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️ | 📧 https://t.co/Jpwh9TFgNx (🐈🐈 🤵👰🏻 🇦🇹)
-    </p>
-</li><li>
-    <h2>
-        <a href='https://twitter.com/commanderquest'>
-            Commander Quest - commanderquest
-            <span class='name'>Commander Quest</span><span class='screen-name'>commanderquest</span>
-        </a>
-    </h2>
-
-    <p>
-        On a mission to the furthest frontiers of tech and talent. 
-Follow my adventures at Club Freelance's Mission Control Center 👉 https://t.co/D4k36nU2at
-    </p>
-</li><li>
-    <h2>
-        <a href='https://twitter.com/benjaminwardcom'>
-            Benjamin Ward - benjaminwardcom
-            <span class='name'>Benjamin Ward</span><span class='screen-name'>benjaminwardcom</span>
-        </a>
-    </h2>
-
-    <p>
-        software engineer, dev coach, Star Wars fanatic, learning enthusiast, host of the Download Knowledge Podcast https://t.co/V2bIR93cQW
+        
     </p>
 </li>
+<li>
+    <h2>
+        <a href='https://twitter.com/steveaschwarz'>
+            <span class='name'>Steve Schwarz</span><span class='screen-name'>@steveaschwarz</span>
+        </a>
+    </h2>
+
+    <p>
+        The web/technology me
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/brown_skin_boy'>
+            <span class='name'>wicky</span><span class='screen-name'>@brown_skin_boy</span>
+        </a>
+    </h2>
+
+    <p>
+        Software developer🐍 || 
+ Ex-Commando👮 || 
+ Uptown Road Horse Rider🤠  || 
+ No stressing just Vibes🔥 and Cruise👻.
+    </p>
+</li>
+
         </ul>
 			</div>
 		</div>

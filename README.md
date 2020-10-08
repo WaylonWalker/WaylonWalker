@@ -47,6 +47,10 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
+### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+
+
+<!--
 ## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
 
 <a href='https://twitter.com/natterstefan'>
@@ -101,7 +105,7 @@ software engineer at @soonastudios. career switcher. vue + rails. tweeting about
 Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investor | Tweets are my own opinions
 
 <h2></h2>
-
+-->
 <p align='center'>
 <!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
  <p/>
