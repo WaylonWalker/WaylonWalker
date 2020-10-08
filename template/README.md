@@ -55,7 +55,7 @@ ${latest_followers}
 ## Latest Stories
 
 <p float="left">
-        <img src='https://waylonwalker.com/stories/quick-tdb.png' alt='story one' width='250'/>
-        <img src='https://waylonwalker.com/stories/running-ci-for-hacktoberfest-kedro.png?raw=true' alt='story one' width='250'/>
-        <img src='https://waylonwalker.com/stories/power-is-nothing-without-control.png?raw=true' alt='story one' width='250'/>
+        <img src='https://waylonwalker.com/stories/quick-tdb.png' alt='story one' width='280'/>
+        <img src='https://waylonwalker.com/stories/running-ci-for-hacktoberfest-kedro.png?raw=true' alt='story one' width='280'/>
+        <img src='https://waylonwalker.com/stories/power-is-nothing-without-control.png?raw=true' alt='story one' width='280'/>
 </p>
