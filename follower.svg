@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/AnasMKDev'>
+            <span class='name'>AnasDev</span><span class='screen-name'>@AnasMKDev</span>
+        </a>
+    </h2>
+
+    <p>
+        Syrian Software Engineer - Laravel & Vue
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/jQNReactor'>
             <span class='name'>jQN</span><span class='screen-name'>@jQNReactor</span>
         </a>
@@ -177,27 +188,13 @@
 </li>
 <li>
     <h2>
-        <a href='https://twitter.com/steveaschwarz'>
-            <span class='name'>Steve Schwarz</span><span class='screen-name'>@steveaschwarz</span>
+        <a href='https://twitter.com/BigDataJunkies'>
+            <span class='name'>Big Data Junkies</span><span class='screen-name'>@BigDataJunkies</span>
         </a>
     </h2>
 
     <p>
-        The web/technology me
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/brown_skin_boy'>
-            <span class='name'>wicky</span><span class='screen-name'>@brown_skin_boy</span>
-        </a>
-    </h2>
-
-    <p>
-        Software developer🐍 || 
- Ex-Commando👮 || 
- Uptown Road Horse Rider🤠  || 
- No stressing just Vibes🔥 and Cruise👻.
+        
     </p>
 </li>
 
