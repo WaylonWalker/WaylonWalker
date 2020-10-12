@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/matescharnitzky'>
+            <span class='name'>Mate Scharnitzky</span><span class='screen-name'>@matescharnitzky</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/kunal_rye'>
             <span class='name'>Kunal</span><span class='screen-name'>@kunal_rye</span>
         </a>
@@ -181,20 +192,6 @@
 
     <p>
         Syrian Software Engineer - Laravel & Vue
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/jQNReactor'>
-            <span class='name'>jQN</span><span class='screen-name'>@jQNReactor</span>
-        </a>
-    </h2>
-
-    <p>
-        ⌨️ Software Engineer 
-💻 One on One Programming Coach: https://t.co/Immq11U7b8
-📖 Blogger: https://t.co/wSKFZGTkW0
-💡Interests: React, React Native, Python, Cybersecurity
     </p>
 </li>
 
