@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/kunal_rye'>
+            <span class='name'>Kunal</span><span class='screen-name'>@kunal_rye</span>
+        </a>
+    </h2>
+
+    <p>
+        Give me facts, or go home
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/AnasMKDev'>
             <span class='name'>AnasDev</span><span class='screen-name'>@AnasMKDev</span>
         </a>
@@ -184,17 +195,6 @@
 💻 One on One Programming Coach: https://t.co/Immq11U7b8
 📖 Blogger: https://t.co/wSKFZGTkW0
 💡Interests: React, React Native, Python, Cybersecurity
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/BigDataJunkies'>
-            <span class='name'>Big Data Junkies</span><span class='screen-name'>@BigDataJunkies</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
