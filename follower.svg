@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/AhmedMalekX'>
+            <span class='name'>AHMED 🏴‍☠️𓂀</span><span class='screen-name'>@AhmedMalekX</span>
+        </a>
+    </h2>
+
+    <p>
+        Coding 👨‍💻 I Coffee ☕ | DevLucifer 😈 | MERN ⚛️♥️
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/matescharnitzky'>
             <span class='name'>Mate Scharnitzky</span><span class='screen-name'>@matescharnitzky</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         frequently dealing with wordnesia
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/AnasMKDev'>
-            <span class='name'>AnasDev</span><span class='screen-name'>@AnasMKDev</span>
-        </a>
-    </h2>
-
-    <p>
-        Syrian Software Engineer - Laravel & Vue
     </p>
 </li>
 
