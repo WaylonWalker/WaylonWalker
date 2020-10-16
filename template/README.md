@@ -55,6 +55,6 @@ ${latest_followers}
 ## Latest Story
 <p align='center'>
 <p float="left">
-        <img src='https://waylonwalker.com/stories/latest-story.png' alt='story one' width='280'/>
+        <img src='https://waylonwalker.com/latest-story.png' alt='story one' width='280'/>
 </p>
 </p>
