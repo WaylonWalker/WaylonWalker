@@ -163,6 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/michaelbloem'>
+            <span class='name'>michaelbloem</span><span class='screen-name'>@michaelbloem</span>
+        </a>
+    </h2>
+
+    <p>
+        Data scientist at Mosaic Data Science. Interested in #ORMS #MachineLearning #Python #Rstats #DataViz
+
+The postings on this site are my own, not my employer's
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/nehiljain'>
             <span class='name'>Nehil Jain</span><span class='screen-name'>@nehiljain</span>
         </a>
@@ -181,17 +194,6 @@
 
     <p>
         Coding 👨‍💻 I Coffee ☕ | DevLucifer 😈 | MERN ⚛️♥️
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/matescharnitzky'>
-            <span class='name'>Mate Scharnitzky</span><span class='screen-name'>@matescharnitzky</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
