@@ -163,6 +163,21 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/getyookits'>
+            <span class='name'>YooKits™</span><span class='screen-name'>@getyookits</span>
+        </a>
+    </h2>
+
+    <p>
+        Open-source 💅 Bootstrap, ⚛️ React, & Vue templates.
+
+Made by @ishfillet.
+
+Building https://t.co/wz43jAyChj
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/ericrwanda10'>
             <span class='name'>Eric Rwanda</span><span class='screen-name'>@ericrwanda10</span>
         </a>
@@ -183,17 +198,6 @@
         Data scientist at Mosaic Data Science. Interested in #ORMS #MachineLearning #Python #Rstats #DataViz
 
 The postings on this site are my own, not my employer's
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/rafikeeio'>
-            <span class='name'>RAFIKEE</span><span class='screen-name'>@rafikeeio</span>
-        </a>
-    </h2>
-
-    <p>
-        Job Board for Data Scientists
     </p>
 </li>
 
