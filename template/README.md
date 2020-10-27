@@ -64,3 +64,7 @@ ${latest_followers}
         <img src='https://waylonwalker.com/latest-story.png' alt='story one' width='280'/>
 </p>
 </p>
+
+## Stargazers
+
+[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
