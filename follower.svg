@@ -163,15 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/urwhaw'>
+            <span class='name'>ur</span><span class='screen-name'>@urwhaw</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/codegodzilla'>
             <span class='name'>codegodzilla.com</span><span class='screen-name'>@codegodzilla</span>
         </a>
     </h2>
 
     <p>
-        I create online courses on topics such as Heroku, Webpack, JavaScript, TypeScript, Jest, React, ESLint 
+        I create online courses: Heroku, Webpack, JavaScript, TypeScript, Jest, React, ESLint
 
-My youtube channel https://t.co/uzROxPRfSw
+Senior React developer | Professor
+
+My Youtube channel https://t.co/81BMj0y8f3
     </p>
 </li>
 <li>
@@ -183,19 +196,6 @@ My youtube channel https://t.co/uzROxPRfSw
 
     <p>
         📺 Content Creator, Freelancer 💬 DM Me For Anything, I will Reply 👇Youtuber | PHP Developer | social influencer | web designer | graphics designer
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/michaelbloem'>
-            <span class='name'>michaelbloem</span><span class='screen-name'>@michaelbloem</span>
-        </a>
-    </h2>
-
-    <p>
-        Data scientist at Mosaic Data Science. Interested in #ORMS #MachineLearning #Python #Rstats #DataViz
-
-The postings on this site are my own, not my employer's
     </p>
 </li>
 
