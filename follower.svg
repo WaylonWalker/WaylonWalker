@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/michellejoylow'>
+            <span class='name'>Michelle-Joy Low</span><span class='screen-name'>@michellejoylow</span>
+        </a>
+    </h2>
+
+    <p>
+        Herder of cats, at work and at home. Growing people. Making data useful. Always curious. Views here are my own.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/ADanielHill'>
             <span class='name'>Alberto Daniel Hill featured @darknetdiaries ep25</span><span class='screen-name'>@ADanielHill</span>
         </a>
@@ -182,21 +193,6 @@ https://t.co/tKzOXQzxTC https://t.co/925mC5Dx7j - My Book: https://t.co/y8akmYsE
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/codegodzilla'>
-            <span class='name'>codegodzilla</span><span class='screen-name'>@codegodzilla</span>
-        </a>
-    </h2>
-
-    <p>
-        I create online courses: Heroku, Webpack, JavaScript, TypeScript, Jest, React, ESLint
-
-Senior React developer | Professor
-
-My Youtube channel https://t.co/81BMj0y8f3
     </p>
 </li>
 
