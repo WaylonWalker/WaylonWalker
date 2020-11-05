@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/VincentClaes1'>
+            <span class='name'>Vincent Claes</span><span class='screen-name'>@VincentClaes1</span>
+        </a>
+    </h2>
+
+    <p>
+        somewhere between data engineering and data science
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/chaseschuette'>
             <span class='name'>Chase Schuette</span><span class='screen-name'>@chaseschuette</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         The wildest cybersecurity stories you can imagine, told by experts & hackers. Lock your door, wipe your drive, and listen to a history you never knew existed.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/michellejoylow'>
-            <span class='name'>Michelle-Joy Low</span><span class='screen-name'>@michellejoylow</span>
-        </a>
-    </h2>
-
-    <p>
-        Econometrician, always curious, loves growing people, and making data useful. These days I lead Data & AI at @reecetech, but all views here are my own.
     </p>
 </li>
 
