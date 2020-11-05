@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/chaseschuette'>
+            <span class='name'>Chase Schuette</span><span class='screen-name'>@chaseschuette</span>
+        </a>
+    </h2>
+
+    <p>
+        Data Scientist & Computer Scientist (HPC) | University-Corporate Relations | Volunteer
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/MaliciousLife'>
             <span class='name'>Malicious.Life</span><span class='screen-name'>@MaliciousLife</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Econometrician, always curious, loves growing people, and making data useful. These days I lead Data & AI at @reecetech, but all views here are my own.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/urwhaw'>
-            <span class='name'>ur</span><span class='screen-name'>@urwhaw</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
