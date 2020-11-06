@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/dev_beans'>
+            <span class='name'>Dev Beans</span><span class='screen-name'>@dev_beans</span>
+        </a>
+    </h2>
+
+    <p>
+        Daily JavaScript newsletter. Best enjoyed with a hot cup if coffee! ☕
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/_massey'>
             <span class='name'>Tim Massey</span><span class='screen-name'>@_massey</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         somewhere between data engineering and data science
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/chaseschuette'>
-            <span class='name'>Chase Schuette</span><span class='screen-name'>@chaseschuette</span>
-        </a>
-    </h2>
-
-    <p>
-        Data Scientist & Computer Scientist (HPC) | University-Corporate Relations | Volunteer
     </p>
 </li>
 
