@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/_massey'>
+            <span class='name'>Tim Massey</span><span class='screen-name'>@_massey</span>
+        </a>
+    </h2>
+
+    <p>
+        Developer/programmeur. Never ceases to be amazed.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/VincentClaes1'>
             <span class='name'>Vincent Claes</span><span class='screen-name'>@VincentClaes1</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Data Scientist & Computer Scientist (HPC) | University-Corporate Relations | Volunteer
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/MaliciousLife'>
-            <span class='name'>Malicious.Life</span><span class='screen-name'>@MaliciousLife</span>
-        </a>
-    </h2>
-
-    <p>
-        The wildest cybersecurity stories you can imagine, told by experts & hackers. Lock your door, wipe your drive, and listen to a history you never knew existed.
     </p>
 </li>
 
