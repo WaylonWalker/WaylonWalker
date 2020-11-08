@@ -163,6 +163,20 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/hadireza14'>
+            <span class='name'>Hadi Reza || هادي رضا</span><span class='screen-name'>@hadireza14</span>
+        </a>
+    </h2>
+
+    <p>
+        Loves to 🛩️🌍 || Storyteller🌌|| Human💫||#100DaysOfCode
+
+- If you think you can do it, you can. If you don't, then you're right.
+Take action and be Patient!
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/dev_beans'>
             <span class='name'>Dev Beans</span><span class='screen-name'>@dev_beans</span>
         </a>
@@ -181,17 +195,6 @@
 
     <p>
         Developer/programmeur. Never ceases to be amazed.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/VincentClaes1'>
-            <span class='name'>Vincent Claes</span><span class='screen-name'>@VincentClaes1</span>
-        </a>
-    </h2>
-
-    <p>
-        somewhere between data engineering and data science
     </p>
 </li>
 
