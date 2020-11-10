@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/BrownLinm'>
+            <span class='name'>Lin M Brown</span><span class='screen-name'>@BrownLinm</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/hadireza14'>
             <span class='name'>Hadi Reza || هادي رضا</span><span class='screen-name'>@hadireza14</span>
         </a>
@@ -173,17 +184,6 @@
 
 - If you think you can do it, you can. If you don't, then you're right.
 Take action and be Patient!
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/dev_beans'>
-            <span class='name'>Dev Beans</span><span class='screen-name'>@dev_beans</span>
-        </a>
-    </h2>
-
-    <p>
-        Daily JavaScript newsletter. Best enjoyed with a hot cup if coffee! ☕
     </p>
 </li>
 <li>
