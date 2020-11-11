@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/ChristopherSeig'>
+            <span class='name'>Christopher Seigel</span><span class='screen-name'>@ChristopherSeig</span>
+        </a>
+    </h2>
+
+    <p>
+        Software developer, veteran, father, teacher. Interested in all things computer science and software engineering. And then some! my opinions here are my own.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/BrownLinm'>
             <span class='name'>Lin M Brown</span><span class='screen-name'>@BrownLinm</span>
         </a>
@@ -184,17 +195,6 @@
 
 - If you think you can do it, you can. If you don't, then you're right.
 Take action and be Patient!
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/_massey'>
-            <span class='name'>Tim Massey</span><span class='screen-name'>@_massey</span>
-        </a>
-    </h2>
-
-    <p>
-        Developer/programmeur. Never ceases to be amazed.
     </p>
 </li>
 
