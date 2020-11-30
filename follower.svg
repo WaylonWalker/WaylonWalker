@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Kevin_Schow'>
+            <span class='name'>KevinSchow</span><span class='screen-name'>@Kevin_Schow</span>
+        </a>
+    </h2>
+
+    <p>
+        https://t.co/pieHLUkYc6
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/WaleedTarbosh'>
             <span class='name'>Waleed Tarbosh</span><span class='screen-name'>@WaleedTarbosh</span>
         </a>
@@ -181,19 +192,6 @@
 
     <p>
         Goal: #100DaysOfCode, Love Python, Have an interest in Web Development and Cyber Security. Want to provide free schooling and homes to the needy.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/codemouse92'>
-            <span class='name'>Jason C. McDonald</span><span class='screen-name'>@codemouse92</span>
-        </a>
-    </h2>
-
-    <p>
-        Hacker, Author, Speaker, Time Lord. CEO & Lead Dev @mousepawmedia/@mousepawgames.
-
-Like my work? https://t.co/vAgGuAy9uX
     </p>
 </li>
 
