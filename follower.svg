@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/JoeHughesDev'>
+            <span class='name'>Joseph Hughes</span><span class='screen-name'>@JoeHughesDev</span>
+        </a>
+    </h2>
+
+    <p>
+        IBM Demos Lead Developer @IBM, previously IBM DevOps Insights Lead, Tech Lover, Front End Engineer, My tweets are my own.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/rcarumalla'>
             <span class='name'>Rakesh Arumalla</span><span class='screen-name'>@rcarumalla</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         https://t.co/pieHLUkYc6
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/WaleedTarbosh'>
-            <span class='name'>Waleed Tarbosh</span><span class='screen-name'>@WaleedTarbosh</span>
-        </a>
-    </h2>
-
-    <p>
-        Computer Systems Engineering
     </p>
 </li>
 
