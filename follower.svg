@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/ImanJaf99232223'>
+            <span class='name'>Iman Jafari</span><span class='screen-name'>@ImanJaf99232223</span>
+        </a>
+    </h2>
+
+    <p>
+        PhD student in Environmental Engineering at NUS
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/JoeHughesDev'>
             <span class='name'>Joseph Hughes</span><span class='screen-name'>@JoeHughesDev</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Kevin_Schow'>
-            <span class='name'>KevinSchow</span><span class='screen-name'>@Kevin_Schow</span>
-        </a>
-    </h2>
-
-    <p>
-        https://t.co/pieHLUkYc6
     </p>
 </li>
 
