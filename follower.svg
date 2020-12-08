@@ -163,6 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/dhruvpathak'>
+            <span class='name'>Dhruv Pathak</span><span class='screen-name'>@dhruvpathak</span>
+        </a>
+    </h2>
+
+    <p>
+        👨‍SVP Engineering@Go-MMT group
+🐦Tweet on tech(#programming,#ML,#NLP,scalability),product,humour, design,art,fitness,memes/webcomics
+✍️Personal views
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/codeYellow6'>
             <span class='name'>Mitanshi Kshatriya</span><span class='screen-name'>@codeYellow6</span>
         </a>
@@ -181,17 +194,6 @@
 
     <p>
         @UMass grad | Computer Engineering | Addicted to learning. #iOS and #frontend Dev.Currently learning #Swift.Opinions are my own and not the views of my employer
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/filthycoder'>
-            <span class='name'>Türkay Tunç</span><span class='screen-name'>@filthycoder</span>
-        </a>
-    </h2>
-
-    <p>
-        IGNORANCE IS BLISS | #reactjs #javascript #AWS #Nodejs #Golang | https://t.co/D7HsybvM7N | https://t.co/SsU954KeEI
     </p>
 </li>
 
