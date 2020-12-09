@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/TodoUbuntu'>
+            <span class='name'>@TodoUbuntu</span><span class='screen-name'>@TodoUbuntu</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/amirkroudir'>
             <span class='name'>Amir Kroudir</span><span class='screen-name'>@amirkroudir</span>
         </a>
@@ -183,17 +194,6 @@
         👨‍SVP Engineering@Go-MMT group
 🐦Tweet on tech(#programming,#ML,#NLP,scalability),product,humour, design,art,fitness,memes/webcomics
 ✍️Personal views
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/codeYellow6'>
-            <span class='name'>Mitanshi Kshatriya</span><span class='screen-name'>@codeYellow6</span>
-        </a>
-    </h2>
-
-    <p>
-        Being my own hype woman.
     </p>
 </li>
 
