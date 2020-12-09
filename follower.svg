@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/amirkroudir'>
+            <span class='name'>Amir Kroudir</span><span class='screen-name'>@amirkroudir</span>
+        </a>
+    </h2>
+
+    <p>
+        💻 Computer science student@ESI
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/dhruvpathak'>
             <span class='name'>Dhruv Pathak</span><span class='screen-name'>@dhruvpathak</span>
         </a>
@@ -183,17 +194,6 @@
 
     <p>
         Being my own hype woman.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/AbhiKeesara1'>
-            <span class='name'>Abhinay Keesara</span><span class='screen-name'>@AbhiKeesara1</span>
-        </a>
-    </h2>
-
-    <p>
-        @UMass grad | Computer Engineering | Addicted to learning. #iOS and #frontend Dev.Currently learning #Swift.Opinions are my own and not the views of my employer
     </p>
 </li>
 
