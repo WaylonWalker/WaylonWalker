@@ -163,6 +163,20 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Jayvirrathi'>
+            <span class='name'>Jayvir Rathi</span><span class='screen-name'>@Jayvirrathi</span>
+        </a>
+    </h2>
+
+    <p>
+        Technologist👨‍💻 |
+Technophile |  Tech-savvy | Technoid |
+Sarcastic | Nerd | Geek  |
+Autophile | Cinephile | Logophile | Quodophile
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/TodoUbuntu'>
             <span class='name'>@TodoUbuntu</span><span class='screen-name'>@TodoUbuntu</span>
         </a>
@@ -181,19 +195,6 @@
 
     <p>
         💻 Computer science student@ESI
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/dhruvpathak'>
-            <span class='name'>Dhruv Pathak</span><span class='screen-name'>@dhruvpathak</span>
-        </a>
-    </h2>
-
-    <p>
-        👨‍SVP Engineering@Go-MMT group
-🐦Tweet on tech(#programming,#ML,#NLP,scalability),product,humour, design,art,fitness,memes/webcomics
-✍️Personal views
     </p>
 </li>
 
