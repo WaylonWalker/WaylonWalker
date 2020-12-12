@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/statefulwidget'>
+            <span class='name'>Sean Moore</span><span class='screen-name'>@statefulwidget</span>
+        </a>
+    </h2>
+
+    <p>
+        Flutter Developer Contributor @ Raahee | Mentor | Volunteer | Speaker | Prev. @Microsoft, @Adobe, @Disney, @WarnerBros | Published @OReillyMedia Author
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Jayvirrathi'>
             <span class='name'>Jayvir Rathi</span><span class='screen-name'>@Jayvirrathi</span>
         </a>
@@ -184,17 +195,6 @@ Autophile | Cinephile | Logophile | Quodophile
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/amirkroudir'>
-            <span class='name'>Amir Kroudir</span><span class='screen-name'>@amirkroudir</span>
-        </a>
-    </h2>
-
-    <p>
-        💻 Computer science student@ESI
     </p>
 </li>
 
