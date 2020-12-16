@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/gggauravgandhi'>
+            <span class='name'>Gaurav Gandhi</span><span class='screen-name'>@gggauravgandhi</span>
+        </a>
+    </h2>
+
+    <p>
+        Something can always be better, nothing is ever complete
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/statefulwidget'>
             <span class='name'>Sean Moore</span><span class='screen-name'>@statefulwidget</span>
         </a>
@@ -184,17 +195,6 @@
 Technophile |  Tech-savvy | Technoid |
 Sarcastic | Nerd | Geek  |
 Autophile | Cinephile | Logophile | Quodophile
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/TodoUbuntu'>
-            <span class='name'>@TodoUbuntu</span><span class='screen-name'>@TodoUbuntu</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
