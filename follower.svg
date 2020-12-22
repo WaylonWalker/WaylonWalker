@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/PaulElvers'>
+            <span class='name'>paul</span><span class='screen-name'>@PaulElvers</span>
+        </a>
+    </h2>
+
+    <p>
+        Data Scientist @smartclipGmbH | ex @mpi_ae @GoldsmithsUoL @unihh
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Kaxper13'>
             <span class='name'>Kacper</span><span class='screen-name'>@Kaxper13</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         😀
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Kepler1649c'>
-            <span class='name'>God Loves You</span><span class='screen-name'>@Kepler1649c</span>
-        </a>
-    </h2>
-
-    <p>
-        Real person; live in US. Retweets/likes/favs/follows not necessarily endorsements
     </p>
 </li>
 
