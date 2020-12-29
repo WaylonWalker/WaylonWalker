@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/EmmettNaughton'>
+            <span class='name'>emmett naughton</span><span class='screen-name'>@EmmettNaughton</span>
+        </a>
+    </h2>
+
+    <p>
+        Front End/Full Stack Javascript Web developer. Father, Husband, Friend.   Co-Creator: #CoderDads
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/dataleum'>
             <span class='name'>Dataleum</span><span class='screen-name'>@dataleum</span>
         </a>
@@ -185,17 +196,6 @@ Data Science| Mining| Machine Learning| Big Data| Analysis|
         ➼ Senior Software Engineer @teamclairvoyant. 
 ➼ Works on: React, Redux, HTML, CSS, JS
 ➼ Let's talk in DM if you need any help
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/PaulElvers'>
-            <span class='name'>paul</span><span class='screen-name'>@PaulElvers</span>
-        </a>
-    </h2>
-
-    <p>
-        Data Scientist @smartclipGmbH | ex @mpi_ae @GoldsmithsUoL @unihh
     </p>
 </li>
 
