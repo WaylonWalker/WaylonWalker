@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/HelmutSven'>
+            <span class='name'>Sven Helmut</span><span class='screen-name'>@HelmutSven</span>
+        </a>
+    </h2>
+
+    <p>
+        Nerd, Student, mostly curious
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/orlandoferrer'>
             <span class='name'>Orlando Ferrer</span><span class='screen-name'>@orlandoferrer</span>
         </a>
@@ -183,17 +194,6 @@
         For more... follow us on:-
 Youtube:-https://t.co/A7BFOolYUL
 Instagram:- https://t.co/C6YbHLcYyY
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/EmmettNaughton'>
-            <span class='name'>emmett naughton</span><span class='screen-name'>@EmmettNaughton</span>
-        </a>
-    </h2>
-
-    <p>
-        Front End/Full Stack Javascript Web developer. Father, Husband, Friend.   Co-Creator: #CoderDads
     </p>
 </li>
 
