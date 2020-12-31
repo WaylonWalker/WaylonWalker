@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Pawan_Kolhe'>
+            <span class='name'>Pawan Kolhe</span><span class='screen-name'>@Pawan_Kolhe</span>
+        </a>
+    </h2>
+
+    <p>
+        Front-End Developer (he/him) | JavaScript is 💛
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/HelmutSven'>
             <span class='name'>Sven Helmut</span><span class='screen-name'>@HelmutSven</span>
         </a>
@@ -181,19 +192,6 @@
 
     <p>
         Twitter procrastinator. Check back later for bio. Tweeting in English and español.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/CoderwebI'>
-            <span class='name'>Coderweb Infotech</span><span class='screen-name'>@CoderwebI</span>
-        </a>
-    </h2>
-
-    <p>
-        For more... follow us on:-
-Youtube:-https://t.co/A7BFOolYUL
-Instagram:- https://t.co/C6YbHLcYyY
     </p>
 </li>
 
