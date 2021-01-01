@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/ajakzheddy'>
+            <span class='name'>Hedgar</span><span class='screen-name'>@ajakzheddy</span>
+        </a>
+    </h2>
+
+    <p>
+        Data Science, Machine Learning, Cloud
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/vmcarranzam'>
+            <span class='name'>wallabymix</span><span class='screen-name'>@vmcarranzam</span>
+        </a>
+    </h2>
+
+    <p>
+        Sueños utópicos, realidad en proceso
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/CloudLunchLearn'>
             <span class='name'>☁️Cloud Lunch and Learn☁️</span><span class='screen-name'>@CloudLunchLearn</span>
         </a>
@@ -170,32 +192,6 @@
 
     <p>
         CLL is an initiative to allow everyone to learn with sessions related to the Cloud, while they are enjoying their lunch or break. #CloudLunchLearn #Azure #Cloud
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Connexinet'>
-            <span class='name'>Samir Al-Battran</span><span class='screen-name'>@Connexinet</span>
-        </a>
-    </h2>
-
-    <p>
-        Entrepreneur and engineer. Father to 3 amazing kids
-CEO/founder @tweepsmap,
-cofounder of @rentcompass,
-Builder of popular mobile apps,
-Traveler, pentalingual.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Pawan_Kolhe'>
-            <span class='name'>Pawan Kolhe</span><span class='screen-name'>@Pawan_Kolhe</span>
-        </a>
-    </h2>
-
-    <p>
-        Front-End Developer (he/him) | JavaScript is 💛
     </p>
 </li>
 
