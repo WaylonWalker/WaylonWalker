@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/ilavenilmaaran'>
+            <span class='name'>Hakuna matata</span><span class='screen-name'>@ilavenilmaaran</span>
+        </a>
+    </h2>
+
+    <p>
+        Pythonista - பிறப்பொக்கும் எல்லா உயிர்க்கும். (All living things are same in nature and by birth).
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Ola2unjee'>
             <span class='name'>Tunji</span><span class='screen-name'>@Ola2unjee</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Certified @Zapier Expert | @Integromat Expert+ | @Airtable Enthusiast | I 💌 APIs | DMs open
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/KennethCassel'>
-            <span class='name'>Kenneth Cassel 🐍</span><span class='screen-name'>@KennethCassel</span>
-        </a>
-    </h2>
-
-    <p>
-        Tweeting on improving faster as a software engineer. Building @deliberatepy- Master Python fundamentals with spaced repetition
     </p>
 </li>
 
