@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/OutamaOthmane'>
+            <span class='name'>Outama Othmane</span><span class='screen-name'>@OutamaOthmane</span>
+        </a>
+    </h2>
+
+    <p>
+        Computer science engineering student
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Sachingowdaac'>
             <span class='name'>Sachingowda A C</span><span class='screen-name'>@Sachingowdaac</span>
         </a>
@@ -182,17 +193,6 @@
     <p>
         Husband, Father, techie, musician
 Solutions Architect @ AWS (opinions are my own)
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/MiglMiguel'>
-            <span class='name'>Miguel Rodriguez</span><span class='screen-name'>@MiglMiguel</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
