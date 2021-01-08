@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/piotr_hajdas'>
+            <span class='name'>Piotr Hajdas</span><span class='screen-name'>@piotr_hajdas</span>
+        </a>
+    </h2>
+
+    <p>
+        Aggrely founder, Cloud enthusiast, Indie hacker
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/chiranth7'>
             <span class='name'>chiranth ram reddy</span><span class='screen-name'>@chiranth7</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Computer science engineering student
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Sachingowdaac'>
-            <span class='name'>Sachingowda A C</span><span class='screen-name'>@Sachingowdaac</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
