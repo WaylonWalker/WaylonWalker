@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Sundaelectronic'>
+            <span class='name'>Sundae Electronics</span><span class='screen-name'>@Sundaelectronic</span>
+        </a>
+    </h2>
+
+    <p>
+        Innovative Consumer Electronics...and programming books! https://t.co/RtvzU4ObHZ, https://t.co/EKqvJrgrUv
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/git_live'>
+            <span class='name'>GitLive</span><span class='screen-name'>@git_live</span>
+        </a>
+    </h2>
+
+    <p>
+        Seamless real-time code collaboration and communication for development teams, supercharge your development teams on any IDE  #DEVcommunity #CodeTogether
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/piotr_hajdas'>
             <span class='name'>Piotr Hajdas</span><span class='screen-name'>@piotr_hajdas</span>
         </a>
@@ -170,28 +192,6 @@
 
     <p>
         Aggrely founder, Cloud enthusiast, Indie hacker
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/chiranth7'>
-            <span class='name'>chiranth ram reddy</span><span class='screen-name'>@chiranth7</span>
-        </a>
-    </h2>
-
-    <p>
-        Just opinions.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/OutamaOthmane'>
-            <span class='name'>Outama Othmane</span><span class='screen-name'>@OutamaOthmane</span>
-        </a>
-    </h2>
-
-    <p>
-        Computer science engineering student
     </p>
 </li>
 
