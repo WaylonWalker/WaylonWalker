@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/JuhoLee17'>
+            <span class='name'>Juho Lee</span><span class='screen-name'>@JuhoLee17</span>
+        </a>
+    </h2>
+
+    <p>
+        Juho’s Free Programming Tutorial on Youtube
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/contextleak'>
             <span class='name'>post rats 🐀</span><span class='screen-name'>@contextleak</span>
         </a>
@@ -182,17 +193,6 @@
 
     <p>
         Innovative Consumer Electronics...and programming books! https://t.co/RtvzU4ObHZ, https://t.co/EKqvJrgrUv
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/git_live'>
-            <span class='name'>GitLive</span><span class='screen-name'>@git_live</span>
-        </a>
-    </h2>
-
-    <p>
-        Seamless real-time code collaboration and communication for development teams, supercharge your development teams on any IDE  #DEVcommunity #CodeTogether
     </p>
 </li>
 
