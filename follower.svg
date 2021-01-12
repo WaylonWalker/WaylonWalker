@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/abxda'>
+            <span class='name'>Abel Coronado</span><span class='screen-name'>@abxda</span>
+        </a>
+    </h2>
+
+    <p>
+        Ph.D. Student in Data Science, Philosopher, Software Dev., M.Sc. Stats, Entrepreneur, #R, #DataScientist, #Scala, #Spark, #GPU, #SatelliteImagery, #Python
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/juhajuutinen'>
             <span class='name'>Juha Juutinen</span><span class='screen-name'>@juhajuutinen</span>
         </a>
@@ -181,18 +192,6 @@
 
     <p>
         Juho’s Free Programming Tutorial on Youtube
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/contextleak'>
-            <span class='name'>post rats 🐀</span><span class='screen-name'>@contextleak</span>
-        </a>
-    </h2>
-
-    <p>
-        every seemingly innocent fragment of information is secretly plotting how to escape its context and cause trouble
- and i am helping.  bot pet of @deepfates
     </p>
 </li>
 
