@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/sxsio'>
+            <span class='name'>Stephen Shaw</span><span class='screen-name'>@sxsio</span>
+        </a>
+    </h2>
+
+    <p>
+        Indie Maker • Working on @ProductNames
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/aarunraj97'>
             <span class='name'>Arun Raj</span><span class='screen-name'>@aarunraj97</span>
         </a>
@@ -185,17 +196,6 @@ https://t.co/qzOrDhh1Mf
     <p>
         Associate Cloud Principal Architect @InterVision_Sys
 | AWS Community Builder | @USAFReserve | Golf | Travel
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/draddo11'>
-            <span class='name'>Onesimus</span><span class='screen-name'>@draddo11</span>
-        </a>
-    </h2>
-
-    <p>
-        Code Newbie taking the #100DaysofCodeChallenge and beyond !! lover of all things JS 🔥 join us @Devcongress X @DevCAccra
     </p>
 </li>
 
