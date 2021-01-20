@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/NimrodKramer'>
+            <span class='name'>Nimrod Kramer</span><span class='screen-name'>@NimrodKramer</span>
+        </a>
+    </h2>
+
+    <p>
+        Co-Founder, CEO at @dailydotdev 👨‍💻 I love 🍣, 🏓, ☕️ and 🦄 Building an easy way for devs to stay updated with the latest tech news ⚡️
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/DittmannAxel'>
             <span class='name'>Axel Dittmann</span><span class='screen-name'>@DittmannAxel</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/RoccoSangellino'>
-            <span class='name'>Rocco Sangellino</span><span class='screen-name'>@RoccoSangellino</span>
-        </a>
-    </h2>
-
-    <p>
-        I build accessible, scalable, responsive web apps using HTML|CSS|JavaScript. Passionate about sharing knowledge. Dad | collects 🏀⚾️comics | poker enthusiast.
     </p>
 </li>
 
