@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/tiernanc5579'>
+            <span class='name'>Tiernan</span><span class='screen-name'>@tiernanc5579</span>
+        </a>
+    </h2>
+
+    <p>
+        Entrepreneur, software developer. I rarely tweet my own content, but I do retweet a lot of stuff from the Twitter dev community.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/KumarGk14940'>
             <span class='name'>gautam parsad singh</span><span class='screen-name'>@KumarGk14940</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Co-Founder, CEO at @dailydotdev 👨‍💻 I love 🍣, 🏓, ☕️ and 🦄 Building an easy way for devs to stay updated with the latest tech news ⚡️
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/DittmannAxel'>
-            <span class='name'>Axel Dittmann</span><span class='screen-name'>@DittmannAxel</span>
-        </a>
-    </h2>
-
-    <p>
-        One of the EMEA IOT Tech Lead @Microsoft, focus: #IOT, #AI, #Python - interest in #Robotics #ROS #Mars -all statements are private and represent my own opinion
     </p>
 </li>
 
