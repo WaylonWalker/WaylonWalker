@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/haysstanford'>
+            <span class='name'>Hays Stanford 🏜️</span><span class='screen-name'>@haysstanford</span>
+        </a>
+    </h2>
+
+    <p>
+        Software engineer • Founder of Ice Breakerr • @UTAustin Physics Alum • Builder
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/developrec'>
             <span class='name'>develop</span><span class='screen-name'>@developrec</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Data Analyst @railsbank                Trying to have a low waste impact! Interested in learning more about sustainability, energy and data.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/gtavasoli'>
-            <span class='name'>Gholamhossein 🚩</span><span class='screen-name'>@gtavasoli</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
