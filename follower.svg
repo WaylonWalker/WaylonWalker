@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/The32Dev'>
+            <span class='name'>The.Dev</span><span class='screen-name'>@The32Dev</span>
+        </a>
+    </h2>
+
+    <p>
+        Mastering Discipline Focus Speed Efficiency
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/ivandanov'>
+            <span class='name'>Ivan Danov</span><span class='screen-name'>@ivandanov</span>
+        </a>
+    </h2>
+
+    <p>
+        Software Engineer. AI & Machine Learning Enthusiast. Dreamer.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/jackvial89'>
             <span class='name'>Jack Vial</span><span class='screen-name'>@jackvial89</span>
         </a>
@@ -170,28 +192,6 @@
 
     <p>
         React, React Native & Laravel Dev | Kaggle Competition Expert
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/FullStackAbbs'>
-            <span class='name'>abbey</span><span class='screen-name'>@FullStackAbbs</span>
-        </a>
-    </h2>
-
-    <p>
-        Data Analyst @Yesware Software Engineer | HU Alumnae @ResilientCoders #BlackTechTwitter
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/_el_ric'>
-            <span class='name'>_el_ric</span><span class='screen-name'>@_el_ric</span>
-        </a>
-    </h2>
-
-    <p>
-        Alma rockera pero corazón salsero
     </p>
 </li>
 
