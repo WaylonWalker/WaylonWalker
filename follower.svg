@@ -163,6 +163,20 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/TroyBarone3'>
+            <span class='name'>Troy Barone</span><span class='screen-name'>@TroyBarone3</span>
+        </a>
+    </h2>
+
+    <p>
+        WordPress Developer @droitthemes
+
+Looking for Great #WordPress theme?
+Check The link below!
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/bluehost'>
             <span class='name'>Bluehost</span><span class='screen-name'>@bluehost</span>
         </a>
@@ -187,17 +201,6 @@ co-founder of @hellonyxo
 Also a cognitive scientist
 
 #react #reactnative #swiftui #cogsci
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/yxn_chen'>
-            <span class='name'>YC</span><span class='screen-name'>@yxn_chen</span>
-        </a>
-    </h2>
-
-    <p>
-        🚀
     </p>
 </li>
 
