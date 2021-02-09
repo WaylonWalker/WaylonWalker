@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/branko_boskovic'>
+            <span class='name'>Branko Boskovic</span><span class='screen-name'>@branko_boskovic</span>
+        </a>
+    </h2>
+
+    <p>
+        Be bold, Be Ranks.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/GirlLovesToCode'>
             <span class='name'>GirlThatLovesToCode</span><span class='screen-name'>@GirlLovesToCode</span>
         </a>
@@ -187,19 +198,6 @@
         📊Data science advocate  🐍Python developer
 🎨Comic artist 🖊Writer
 Tweets about data science projects, visualizations, and dev stuff. Opinions R my own
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Martin_Heinz_'>
-            <span class='name'>Martin Heinz</span><span class='screen-name'>@Martin_Heinz_</span>
-        </a>
-    </h2>
-
-    <p>
-        Blogger ✍️
-DevOps engineer at @IBM 🧑‍💻
-Certified @RedHat Professional 🎯
     </p>
 </li>
 
