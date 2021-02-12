@@ -163,6 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/jrhwood'>
+            <span class='name'>Jesse Wood</span><span class='screen-name'>@jrhwood</span>
+        </a>
+    </h2>
+
+    <p>
+        Leave the world a better place you found it.
+👨‍💻 Intern Developer @niwa_nz 
+👨‍🎓 Engineering student @WellingtonUni
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/shameer_phy'>
             <span class='name'>Shameer Khan</span><span class='screen-name'>@shameer_phy</span>
         </a>
@@ -181,17 +194,6 @@
 
     <p>
         Humanity First
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/chuk_charles'>
-            <span class='name'>Charlie</span><span class='screen-name'>@chuk_charles</span>
-        </a>
-    </h2>
-
-    <p>
-        Onye Igbo || ♒ || four-eyed 🤓 || Python Machine Learner and data enthusiast 👨🏽‍💻 || RDBMS with MYSQL🗄️ || Gryffindor 🧙🏼‍♀️
     </p>
 </li>
 
