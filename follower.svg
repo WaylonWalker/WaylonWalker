@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/hxiao'>
+            <span class='name'>Han Xiao</span><span class='screen-name'>@hxiao</span>
+        </a>
+    </h2>
+
+    <p>
+        Founder & CEO @JinaAI_ | Creator of Fashion-MNIST, bert-as-service
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/jrhwood'>
             <span class='name'>Jesse Wood</span><span class='screen-name'>@jrhwood</span>
         </a>
@@ -183,17 +194,6 @@
 
     <p>
         Enthusiastic & Data-Curious. #Peace #Love #Happiness
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/aamir_0991'>
-            <span class='name'>AAMIR KHAN</span><span class='screen-name'>@aamir_0991</span>
-        </a>
-    </h2>
-
-    <p>
-        Humanity First
     </p>
 </li>
 
