@@ -163,6 +163,18 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/David_J_Carter_'>
+            <span class='name'>David James Carter</span><span class='screen-name'>@David_J_Carter_</span>
+        </a>
+    </h2>
+
+    <p>
+        Hello! My name is David James Carter, and I'm software engineer based in Oslo, Norway.
+David James Carter - Creative Software Engineer
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/ryanmwakio'>
             <span class='name'>ＲＹΛＮ</span><span class='screen-name'>@ryanmwakio</span>
         </a>
@@ -181,17 +193,6 @@
 
     <p>
         Entrepreneur ✯ Founder & CEO ✯ Investor/Advisor ✯ Mama of 2 ✯ Insatiably curious about OSS
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/hxiao'>
-            <span class='name'>Han Xiao</span><span class='screen-name'>@hxiao</span>
-        </a>
-    </h2>
-
-    <p>
-        Founder & CEO @JinaAI_ | Creator of Fashion-MNIST, bert-as-service
     </p>
 </li>
 
