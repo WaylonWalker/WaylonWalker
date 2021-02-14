@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/ryanmwakio'>
+            <span class='name'>ＲＹΛＮ</span><span class='screen-name'>@ryanmwakio</span>
+        </a>
+    </h2>
+
+    <p>
+        “I know not all that may be coming, but be it what it will, I’ll go to it laughing.”
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/lotusleafstyle'>
             <span class='name'>Julia Che</span><span class='screen-name'>@lotusleafstyle</span>
         </a>
@@ -181,19 +192,6 @@
 
     <p>
         Founder & CEO @JinaAI_ | Creator of Fashion-MNIST, bert-as-service
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/jrhwood'>
-            <span class='name'>Jesse Wood</span><span class='screen-name'>@jrhwood</span>
-        </a>
-    </h2>
-
-    <p>
-        Leave the world a better place you found it.
-👨‍💻 Intern Developer @niwa_nz 
-👨‍🎓 Engineering student @WellingtonUni
     </p>
 </li>
 
