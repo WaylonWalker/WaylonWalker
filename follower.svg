@@ -163,6 +163,18 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/stremovsky'>
+            <span class='name'>Stremovsky</span><span class='screen-name'>@stremovsky</span>
+        </a>
+    </h2>
+
+    <p>
+        Paranoid Security Guy
+https://t.co/PuULvbrmL0
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/oadacloroquina'>
             <span class='name'>WannaBeDataScientist</span><span class='screen-name'>@oadacloroquina</span>
         </a>
@@ -182,17 +194,6 @@
     <p>
         Hello! My name is David James Carter, and I'm software engineer based in Oslo, Norway.
 David James Carter - Creative Software Engineer
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/ryanmwakio'>
-            <span class='name'>ＲＹΛＮ</span><span class='screen-name'>@ryanmwakio</span>
-        </a>
-    </h2>
-
-    <p>
-        “I know not all that may be coming, but be it what it will, I’ll go to it laughing.”
     </p>
 </li>
 
