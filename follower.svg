@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/fishnets88'>
+            <span class='name'>Vincent D. Warmerdam</span><span class='screen-name'>@fishnets88</span>
+        </a>
+    </h2>
+
+    <p>
+        Prefers common sense over hype. Let's not solve the wrong problem. Works @rasa_hq, hobbies @ https://t.co/gGsHRrvs5k, blogs @ https://t.co/HKa2NA7Q3n.  he/him
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/PonicodeDev'>
             <span class='name'>Ponicode</span><span class='screen-name'>@PonicodeDev</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Hyperborean Python expert, author, humanist, husband, and sometimes wildlife photographer. Author of Rich and PyFilesystem Python packages.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/iansari'>
-            <span class='name'>iansari</span><span class='screen-name'>@iansari</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
