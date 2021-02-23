@@ -163,6 +163,31 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/locopinio'>
+            <span class='name'>locopin.io</span><span class='screen-name'>@locopinio</span>
+        </a>
+    </h2>
+
+    <p>
+        I am building https://t.co/Q8QGH8URKB #buildinpublic
+Journey: https://t.co/9z3xTglw8H
+
+Any advice? Comment! My DM's are open!
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/hofmannsven'>
+            <span class='name'>Sven</span><span class='screen-name'>@hofmannsven</span>
+        </a>
+    </h2>
+
+    <p>
+        Freelance web developer with focus on #PHP | #Laravel | #WordPress | #SaaS | Imprint: https://t.co/PggTgPzgVd
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/lescobedo21'>
             <span class='name'>Lucho Escobedo</span><span class='screen-name'>@lescobedo21</span>
         </a>
@@ -170,28 +195,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/r_vinfo'>
-            <span class='name'>RVinfo</span><span class='screen-name'>@r_vinfo</span>
-        </a>
-    </h2>
-
-    <p>
-        
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/phplines'>
-            <span class='name'>PHP lines</span><span class='screen-name'>@phplines</span>
-        </a>
-    </h2>
-
-    <p>
-        Code for elePHPants!
     </p>
 </li>
 
