@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/RJMuhammadAsher'>
+            <span class='name'>Raja Muhammad Asher</span><span class='screen-name'>@RJMuhammadAsher</span>
+        </a>
+    </h2>
+
+    <p>
+        Husband | Big Daddy | Project Manager | Microsoft Certified Professional Developer | Javascript Enthusiast
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/TheCodingRooms'>
             <span class='name'>Coding Teams 👨‍💻</span><span class='screen-name'>@TheCodingRooms</span>
         </a>
@@ -183,17 +194,6 @@ $TSLA
 
     <p>
         Software developer. Back-end samurai. Literature and journalism lover. RTs aren’t marriage proposals.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/JinnAlpha'>
-            <span class='name'>AlphaJinn</span><span class='screen-name'>@JinnAlpha</span>
-        </a>
-    </h2>
-
-    <p>
-        #Selfimprovement : #Tutorials | #Roadmaps | #Tools On #Technology | #Science | #Programming. Please, feel free to DM us if you need help to learn something new
     </p>
 </li>
 
