@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Ktradev'>
+            <span class='name'>Kenny Tran</span><span class='screen-name'>@Ktradev</span>
+        </a>
+    </h2>
+
+    <p>
+        Student, majoring in computer engineering.  Learning web development on my spare time
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/RJMuhammadAsher'>
             <span class='name'>Raja Muhammad Asher</span><span class='screen-name'>@RJMuhammadAsher</span>
         </a>
@@ -183,17 +194,6 @@
         software engineer / graffic designer
 $TSLA  
 @code 🤩
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/japinol'>
-            <span class='name'>Joan A. Piñol</span><span class='screen-name'>@japinol</span>
-        </a>
-    </h2>
-
-    <p>
-        Software developer. Back-end samurai. Literature and journalism lover. RTs aren’t marriage proposals.
     </p>
 </li>
 
