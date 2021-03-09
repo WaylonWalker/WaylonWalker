@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Extrawurst'>
+            <span class='name'>Stephan Dilly</span><span class='screen-name'>@Extrawurst</span>
+        </a>
+    </h2>
+
+    <p>
+        Founder of gameroasters @gmrstrs and @liveask1, #indie #gamedev, #rust enthusiast, worked previously at @innogames, @ubisoft
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/sahitmandapati'>
             <span class='name'>SAHIT</span><span class='screen-name'>@sahitmandapati</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Technologist helping communities become resilient to disasters @Disastertechinc. Volunteer @Medic @Datakind @UNVolunteers. Prev at @UCSF_CI2 & @datascifellows
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/phucson'>
-            <span class='name'>Son Nguyen</span><span class='screen-name'>@phucson</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
