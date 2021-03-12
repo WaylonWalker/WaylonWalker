@@ -163,8 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
-        <a href='https://twitter.com/covertshark'>
-            <span class='name'>Mohit Sahni</span><span class='screen-name'>@covertshark</span>
+        <a href='https://twitter.com/javierdiazarca'>
+            <span class='name'>Javier Díaz Arca</span><span class='screen-name'>@javierdiazarca</span>
+        </a>
+    </h2>
+
+    <p>
+        Analísta de Sistemas - Estudiante de ingeniería de sistemas en la UPC @LaureateIntlU
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/permadesign'>
+            <span class='name'>Surre Markandaya</span><span class='screen-name'>@permadesign</span>
         </a>
     </h2>
 
@@ -174,32 +185,13 @@
 </li>
 <li>
     <h2>
-        <a href='https://twitter.com/AdrienRahier'>
-            <span class='name'>Adrien Rahier 🧭</span><span class='screen-name'>@AdrienRahier</span>
+        <a href='https://twitter.com/covertshark'>
+            <span class='name'>Mohit Sahni</span><span class='screen-name'>@covertshark</span>
         </a>
     </h2>
 
     <p>
-        #TechForGood enthusiast. 
-All things frontend @circularise 
-Prev @BBC @360Learning
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/schleinzer_com'>
-            <span class='name'>Thorsten Schleinzer 🦅💙</span><span class='screen-name'>@schleinzer_com</span>
-        </a>
-    </h2>
-
-    <p>
-        Developer // Author // Trainer // GameDev
-
-👉 https://t.co/gNUcVKkTDf
-
-Make the 🌍 a better place, bit by bit.
-
-#kotlin #gamedev #indie #java #cpp #godot #fullstack
+        
     </p>
 </li>
 
