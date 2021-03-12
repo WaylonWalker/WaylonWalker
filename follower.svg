@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Analyze_Aaron'>
+            <span class='name'>Aaron Rodriguez</span><span class='screen-name'>@Analyze_Aaron</span>
+        </a>
+    </h2>
+
+    <p>
+        Using Data for Good. Tweeting about things I'm passionate about: @Tableau, homelessness, and foster care
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/javierdiazarca'>
             <span class='name'>Javier Díaz Arca</span><span class='screen-name'>@javierdiazarca</span>
         </a>
@@ -176,17 +187,6 @@
     <h2>
         <a href='https://twitter.com/permadesign'>
             <span class='name'>Surre Markandaya</span><span class='screen-name'>@permadesign</span>
-        </a>
-    </h2>
-
-    <p>
-        
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/covertshark'>
-            <span class='name'>Mohit Sahni</span><span class='screen-name'>@covertshark</span>
         </a>
     </h2>
 
