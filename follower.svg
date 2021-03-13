@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/austospumanto'>
+            <span class='name'>Austin Ray</span><span class='screen-name'>@austospumanto</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Analyze_Aaron'>
             <span class='name'>Aaron Rodriguez</span><span class='screen-name'>@Analyze_Aaron</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Analísta de Sistemas - Estudiante de ingeniería de sistemas en la UPC @LaureateIntlU
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/permadesign'>
-            <span class='name'>Surre Markandaya</span><span class='screen-name'>@permadesign</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
