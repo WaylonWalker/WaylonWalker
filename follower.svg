@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/OniHax'>
+            <span class='name'>OniHax</span><span class='screen-name'>@OniHax</span>
+        </a>
+    </h2>
+
+    <p>
+        Learning Hacking in public
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/peleusj'>
             <span class='name'>Albert Ji</span><span class='screen-name'>@peleusj</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         🇯🇵 Working on Search & Recommendation https://t.co/9KMWEv5Y11
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/fabio_gz'>
-            <span class='name'>Fabio Gomez</span><span class='screen-name'>@fabio_gz</span>
-        </a>
-    </h2>
-
-    <p>
-        Working with data
     </p>
 </li>
 
