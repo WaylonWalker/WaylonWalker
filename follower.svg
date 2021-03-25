@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Marcus74846965'>
+            <span class='name'>Marcus</span><span class='screen-name'>@Marcus74846965</span>
+        </a>
+    </h2>
+
+    <p>
+        Business Development Executive
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/codeprints'>
+            <span class='name'>codeprints</span><span class='screen-name'>@codeprints</span>
+        </a>
+    </h2>
+
+    <p>
+        Code is art ... soon on your wall. (tweets by Matthias and Wolfgang)
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Peteramen5'>
             <span class='name'>Peteramen</span><span class='screen-name'>@Peteramen5</span>
         </a>
@@ -170,31 +192,6 @@
 
     <p>
         🌏FJHS🌏🦅JESUS IS MY EVERYTHING🦅l love u💕
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/rahulbanerjee99'>
-            <span class='name'>Rahul Banerjee 👨‍💻</span><span class='screen-name'>@rahulbanerjee99</span>
-        </a>
-    </h2>
-
-    <p>
-        Daily Programming Content 📰 
-Currently on a 100daysofcode challenge 💯
-Articles related to Python, Data Science, APIs 💻
-20k+ Reads on Medium 👀
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/OniHax'>
-            <span class='name'>OniHax</span><span class='screen-name'>@OniHax</span>
-        </a>
-    </h2>
-
-    <p>
-        Learning Hacking in public
     </p>
 </li>
 
