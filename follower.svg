@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/PraveenLearning'>
+            <span class='name'>Praveen Gundubogula</span><span class='screen-name'>@PraveenLearning</span>
+        </a>
+    </h2>
+
+    <p>
+        You were not born to suffer. You were born to experience life to its fullest, filled with learn, joy and excitement!
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/ShiftDNS'>
             <span class='name'>ShiftDNS</span><span class='screen-name'>@ShiftDNS</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Business Development Executive
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/codeprints'>
-            <span class='name'>codeprints</span><span class='screen-name'>@codeprints</span>
-        </a>
-    </h2>
-
-    <p>
-        Code is art ... soon on your wall. (tweets by Matthias and Wolfgang)
     </p>
 </li>
 
