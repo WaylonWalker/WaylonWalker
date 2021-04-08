@@ -163,6 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/TechnicallyRoz'>
+            <span class='name'>TechnicallyRoz</span><span class='screen-name'>@TechnicallyRoz</span>
+        </a>
+    </h2>
+
+    <p>
+        I'm a frontend web developer and designer.
+Currently #buildinginpublic and networking with awesome folks.
+Fancy a chat? My DM's are always open.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/yellakatkuri'>
             <span class='name'>yellareddy</span><span class='screen-name'>@yellakatkuri</span>
         </a>
@@ -181,18 +194,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Basantttt1'>
-            <span class='name'>BASANT</span><span class='screen-name'>@Basantttt1</span>
-        </a>
-    </h2>
-
-    <p>
-        Learning ..
-Trying .....  Doin my best ...
     </p>
 </li>
 
