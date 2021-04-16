@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/ARPAnetwork'>
+            <span class='name'>SSSerg</span><span class='screen-name'>@ARPAnetwork</span>
+        </a>
+    </h2>
+
+    <p>
+        Software developer
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/SAguedo'>
             <span class='name'>Sebastian Aguedo</span><span class='screen-name'>@SAguedo</span>
         </a>
@@ -182,17 +193,6 @@
     <p>
         TransactSQL @NeoLife_Africa
 Excelsior 💯
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/tomerviga1'>
-            <span class='name'>tomerviga</span><span class='screen-name'>@tomerviga1</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
