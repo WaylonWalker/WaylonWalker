@@ -163,6 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Beinghasnain16'>
+            <span class='name'>Hasnain Ali</span><span class='screen-name'>@Beinghasnain16</span>
+        </a>
+    </h2>
+
+    <p>
+        Tech Enthusiast 💯
+Aspiring Data Scientist♥
+Computer Engineering Undergrad at NED 🔥
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/ARPAnetwork'>
             <span class='name'>SSSerg</span><span class='screen-name'>@ARPAnetwork</span>
         </a>
@@ -181,18 +194,6 @@
 
     <p>
         Perseverancia y buen humor
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/bullaa__'>
-            <span class='name'>Bulla Rules ✨</span><span class='screen-name'>@bullaa__</span>
-        </a>
-    </h2>
-
-    <p>
-        TransactSQL @NeoLife_Africa
-Excelsior 💯
     </p>
 </li>
 
