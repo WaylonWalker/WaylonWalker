@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/DataScienceGuy1'>
+            <span class='name'>Data Science Guy</span><span class='screen-name'>@DataScienceGuy1</span>
+        </a>
+    </h2>
+
+    <p>
+        All things Data Science, Machine Learning and Artificial Intelligence
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Beinghasnain16'>
             <span class='name'>Hasnain Ali</span><span class='screen-name'>@Beinghasnain16</span>
         </a>
@@ -183,17 +194,6 @@ Computer Engineering Undergrad at NED 🔥
 
     <p>
         Software developer
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/SAguedo'>
-            <span class='name'>Sebastian Aguedo</span><span class='screen-name'>@SAguedo</span>
-        </a>
-    </h2>
-
-    <p>
-        Perseverancia y buen humor
     </p>
 </li>
 
