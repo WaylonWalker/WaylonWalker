@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/jojadev'>
+            <span class='name'>Josh Jacobson </span><span class='screen-name'>@jojadev</span>
+        </a>
+    </h2>
+
+    <p>
+        product manager. 100 Days of Code, Code Newbie. HTML/CSS/JavaScript/Python.  fan, nintendo addict, and sometimes 📸 he/him
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Sar060301'>
             <span class='name'>sAr🈹</span><span class='screen-name'>@Sar060301</span>
         </a>
@@ -182,17 +193,6 @@ Research Interest : Comp Arch(All hail RISC V),NLP,HPC.
 
     <p>
         Hello World!
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/doodlestein'>
-            <span class='name'>Jeffrey Emanuel</span><span class='screen-name'>@doodlestein</span>
-        </a>
-    </h2>
-
-    <p>
-        Quant Investor
     </p>
 </li>
 
