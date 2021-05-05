@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/tdjordan'>
+            <span class='name'>Tom Jordan</span><span class='screen-name'>@tdjordan</span>
+        </a>
+    </h2>
+
+    <p>
+        codio ergo sum
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/TeejDeVries'>
             <span class='name'>TJ DeVries</span><span class='screen-name'>@TeejDeVries</span>
         </a>
@@ -183,17 +194,6 @@
         The ONLY Twitch Partner streaming on Arch Linux (not in a VM) | 
 vim, go, python, vi, devops....btw did I mention I use arch linux | 
 https://t.co/2LW2fl9JLK
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/samsoudine5'>
-            <span class='name'>samsoudine</span><span class='screen-name'>@samsoudine5</span>
-        </a>
-    </h2>
-
-    <p>
-        Diop🤟🏻
     </p>
 </li>
 
