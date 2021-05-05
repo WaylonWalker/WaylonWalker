@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/TeejDeVries'>
+            <span class='name'>TJ DeVries</span><span class='screen-name'>@TeejDeVries</span>
+        </a>
+    </h2>
+
+    <p>
+        Christian. Neovim Core Member. I love making tools for developers. I stream @ https://t.co/91NvurN8E6 . I work @srcgraph :)
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/beginbotbot'>
             <span class='name'>Begin</span><span class='screen-name'>@beginbotbot</span>
         </a>
@@ -183,17 +194,6 @@ https://t.co/2LW2fl9JLK
 
     <p>
         Diop🤟🏻
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/bongofortwo'>
-            <span class='name'>bongo</span><span class='screen-name'>@bongofortwo</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
