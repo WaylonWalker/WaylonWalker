@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/_DigitalWriter_'>
+            <span class='name'>Herbert Hertramph</span><span class='screen-name'>@_DigitalWriter_</span>
+        </a>
+    </h2>
+
+    <p>
+        Sozialwissenschaftler am Institut f. Psychologie und Pädagogik der Universität Ulm, Schwerpunkt: Mediendidaktik, Lehramt. Interesse: "Digitale Aufgeräumtheit" 😉
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/MarinellaSimon1'>
+            <span class='name'>Marinella Simone</span><span class='screen-name'>@MarinellaSimon1</span>
+        </a>
+    </h2>
+
+    <p>
+        Dico e faccio cose, soprattutto dico. Logorroica, ma dopo un po’ ci si abitua.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/tdjordan'>
             <span class='name'>Tom Jordan</span><span class='screen-name'>@tdjordan</span>
         </a>
@@ -170,30 +192,6 @@
 
     <p>
         codio ergo sum
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/TeejDeVries'>
-            <span class='name'>TJ DeVries</span><span class='screen-name'>@TeejDeVries</span>
-        </a>
-    </h2>
-
-    <p>
-        Christian. Neovim Core Member. I love making tools for developers. I stream @ https://t.co/91NvurN8E6 . I work @srcgraph :)
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/beginbotbot'>
-            <span class='name'>Begin</span><span class='screen-name'>@beginbotbot</span>
-        </a>
-    </h2>
-
-    <p>
-        The ONLY Twitch Partner streaming on Arch Linux (not in a VM) | 
-vim, go, python, vi, devops....btw did I mention I use arch linux | 
-https://t.co/2LW2fl9JLK
     </p>
 </li>
 
