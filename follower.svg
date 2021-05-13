@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/mrueegg'>
+            <span class='name'>Michael Rüegg</span><span class='screen-name'>@mrueegg</span>
+        </a>
+    </h2>
+
+    <p>
+        Scala & FP enthusiast, CTO @mibexsoftware
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/focusaurus'>
+            <span class='name'>Peter Lyons</span><span class='screen-name'>@focusaurus</span>
+        </a>
+    </h2>
+
+    <p>
+        cyberlumberjack. saxophonist. he/him.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/apetresc'>
             <span class='name'>Adrian Petrescu</span><span class='screen-name'>@apetresc</span>
         </a>
@@ -170,28 +192,6 @@
 
     <p>
         I hate writing these :(
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/rossijonas'>
-            <span class='name'>Jonas B. Rossi</span><span class='screen-name'>@rossijonas</span>
-        </a>
-    </h2>
-
-    <p>
-        software engineer | civil engineer | MBA | surfer | writing vim tips at https://t.co/UynEHgdrCw and https://t.co/m4yQm2efMK
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/SabrinaESAquino'>
-            <span class='name'>Sabrina</span><span class='screen-name'>@SabrinaESAquino</span>
-        </a>
-    </h2>
-
-    <p>
-        Undergraduate in Computer Engineering and Newborn Software Developer 👩🏻‍💻 Bilingual 🇧🇷🇺🇸
     </p>
 </li>
 
