@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/AlhatAbhishek'>
+            <span class='name'>Abhishek Alhat</span><span class='screen-name'>@AlhatAbhishek</span>
+        </a>
+    </h2>
+
+    <p>
+        18| I love airplanes( I mean paper airplanes)
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/mrueegg'>
             <span class='name'>Michael Rüegg</span><span class='screen-name'>@mrueegg</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         cyberlumberjack. saxophonist. he/him.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/apetresc'>
-            <span class='name'>Adrian Petrescu</span><span class='screen-name'>@apetresc</span>
-        </a>
-    </h2>
-
-    <p>
-        I hate writing these :(
     </p>
 </li>
 
