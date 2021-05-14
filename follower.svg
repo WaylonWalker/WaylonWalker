@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/denilson020898'>
+            <span class='name'>son</span><span class='screen-name'>@denilson020898</span>
+        </a>
+    </h2>
+
+    <p>
+        Nothing to share
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/CodeHappily'>
             <span class='name'>HappyCoder</span><span class='screen-name'>@CodeHappily</span>
         </a>
@@ -182,17 +193,6 @@ Think Twice Code Once
 
     <p>
         18| I love airplanes( I mean paper airplanes)
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/mrueegg'>
-            <span class='name'>Michael Rüegg</span><span class='screen-name'>@mrueegg</span>
-        </a>
-    </h2>
-
-    <p>
-        Scala & FP enthusiast, CTO @mibexsoftware
     </p>
 </li>
 
