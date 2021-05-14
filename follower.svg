@@ -163,6 +163,18 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/CodeHappily'>
+            <span class='name'>HappyCoder</span><span class='screen-name'>@CodeHappily</span>
+        </a>
+    </h2>
+
+    <p>
+        Senior Software Engineer * Business Owner *
+Think Twice Code Once
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/AlhatAbhishek'>
             <span class='name'>Abhishek Alhat</span><span class='screen-name'>@AlhatAbhishek</span>
         </a>
@@ -181,17 +193,6 @@
 
     <p>
         Scala & FP enthusiast, CTO @mibexsoftware
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/focusaurus'>
-            <span class='name'>Peter Lyons</span><span class='screen-name'>@focusaurus</span>
-        </a>
-    </h2>
-
-    <p>
-        cyberlumberjack. saxophonist. he/him.
     </p>
 </li>
 
