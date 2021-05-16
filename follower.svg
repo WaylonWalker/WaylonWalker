@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/CoffeyBlog'>
+            <span class='name'>Coffey</span><span class='screen-name'>@CoffeyBlog</span>
+        </a>
+    </h2>
+
+    <p>
+        Cloud Architect | Cloud Engineer | Veteran | Veterans Advocate | Hire Heroes | Veteran of Kentucky Air National Guard
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/AndrewJDavison'>
             <span class='name'>Andrew Davison</span><span class='screen-name'>@AndrewJDavison</span>
         </a>
@@ -184,17 +195,6 @@ Want help becoming an expert yourself? Join the club: https://t.co/kN1RY0J3m3
 
     <p>
         Hello friend!
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/rahulcomp24'>
-            <span class='name'>Rahul Kumar</span><span class='screen-name'>@rahulcomp24</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
