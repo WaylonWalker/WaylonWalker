@@ -163,6 +163,32 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/lavary_'>
+            <span class='name'>Reza Lavarian</span><span class='screen-name'>@lavary_</span>
+        </a>
+    </h2>
+
+    <p>
+        Software engineer | Tweets about web performance, JavaScript, Vue.js, PHP, and Laravel, nice guy 👀
+
+Author @freeCodeCamp and @sitepointdotcom
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/keep_it_running'>
+            <span class='name'>kenan</span><span class='screen-name'>@keep_it_running</span>
+        </a>
+    </h2>
+
+    <p>
+        backend eng @Sword_Sec
+
+meu / ce
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/kryologik'>
             <span class='name'>Ghxst</span><span class='screen-name'>@kryologik</span>
         </a>
@@ -170,28 +196,6 @@
 
     <p>
         Software developer
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/dataframing'>
-            <span class='name'>danny</span><span class='screen-name'>@dataframing</span>
-        </a>
-    </h2>
-
-    <p>
-        casually suggesting content you should watch on @hulu. formerly fancy counter at @albertapp, @blueapron, @basecamp. amateur rustacean 🦀 he/him
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/nghiaht7'>
-            <span class='name'>hoangtrungnghia</span><span class='screen-name'>@nghiaht7</span>
-        </a>
-    </h2>
-
-    <p>
-        self-proclaimed Data Engineer interested in Data Science, Big Data and Bayesian Statistics
     </p>
 </li>
 
