@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/kryologik'>
+            <span class='name'>Ghxst</span><span class='screen-name'>@kryologik</span>
+        </a>
+    </h2>
+
+    <p>
+        Software developer
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/dataframing'>
             <span class='name'>danny</span><span class='screen-name'>@dataframing</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         self-proclaimed Data Engineer interested in Data Science, Big Data and Bayesian Statistics
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/ARareBreedStory'>
-            <span class='name'>Яare Breed - Stories From The Left</span><span class='screen-name'>@ARareBreedStory</span>
-        </a>
-    </h2>
-
-    <p>
-        🌹Fantasy, Scifi, Horror, Anime styled, and Stoner themed stories. Imagine #ASOIAF meets #ATLAB, on drugs - as a modern political allegory.
     </p>
 </li>
 
