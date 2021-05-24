@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/maneshahbazyan3'>
+            <span class='name'>Mane Shahbazyan</span><span class='screen-name'>@maneshahbazyan3</span>
+        </a>
+    </h2>
+
+    <p>
+        #FreeMaral
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/JoeBradyDev'>
             <span class='name'>Joe Brady</span><span class='screen-name'>@JoeBradyDev</span>
         </a>
@@ -181,19 +192,6 @@
 
     <p>
         Emacs enthusiast. Problems worthy of attack prove their worth by hitting back. -- Piet Hein
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/lavary_'>
-            <span class='name'>Reza Lavarian</span><span class='screen-name'>@lavary_</span>
-        </a>
-    </h2>
-
-    <p>
-        Software engineer | Tweets about web performance, JavaScript, Vue.js, PHP, and Laravel, nice guy 👀
-
-Author @freeCodeCamp and @sitepointdotcom
     </p>
 </li>
 
