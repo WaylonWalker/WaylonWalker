@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/gdwikir'>
+            <span class='name'>Ghifari D. Ramadhan</span><span class='screen-name'>@gdwikir</span>
+        </a>
+    </h2>
+
+    <p>
+        Solving imaginary scaling issues
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/s_mawjee'>
+            <span class='name'>Shahil Mawjee</span><span class='screen-name'>@s_mawjee</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/R_Dimm'>
             <span class='name'>Rens Dimmendaal</span><span class='screen-name'>@R_Dimm</span>
         </a>
@@ -170,28 +192,6 @@
 
     <p>
         I like generative algorithms
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/maneshahbazyan3'>
-            <span class='name'>Mane Shahbazyan</span><span class='screen-name'>@maneshahbazyan3</span>
-        </a>
-    </h2>
-
-    <p>
-        #FreeMaral
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/JoeBradyDev'>
-            <span class='name'>Joe Brady</span><span class='screen-name'>@JoeBradyDev</span>
-        </a>
-    </h2>
-
-    <p>
-        Full-stack web developer seeking new work opportunities | Loves #React, #NextJS, @tailwindcss, & #Vim | he/him
     </p>
 </li>
 
