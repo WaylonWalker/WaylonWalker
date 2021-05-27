@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/macrayzoom'>
+            <span class='name'>🐠macray</span><span class='screen-name'>@macrayzoom</span>
+        </a>
+    </h2>
+
+    <p>
+        Software developer interviewing for full-stack developer roles and documenting the process ☄️
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/bent_Mhmad'>
             <span class='name'>عائدة محمد</span><span class='screen-name'>@bent_Mhmad</span>
         </a>
@@ -182,17 +193,6 @@
 
     <p>
         Solving imaginary scaling issues
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/s_mawjee'>
-            <span class='name'>Shahil Mawjee</span><span class='screen-name'>@s_mawjee</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
