@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/manishc'>
+            <span class='name'>MC</span><span class='screen-name'>@manishc</span>
+        </a>
+    </h2>
+
+    <p>
+        Geek. Writer. Storyteller. Dreamer. Observer. Digital non-conformist. Startups. Pets. Dangerous Hobbies.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/macrayzoom'>
             <span class='name'>🐠macray</span><span class='screen-name'>@macrayzoom</span>
         </a>
@@ -182,17 +193,6 @@
     <p>
         Never let someone stop you from accomplishing your dreams 
 البديل : @eng_aida_kh
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/gdwikir'>
-            <span class='name'>Ghifari D. Ramadhan</span><span class='screen-name'>@gdwikir</span>
-        </a>
-    </h2>
-
-    <p>
-        Solving imaginary scaling issues
     </p>
 </li>
 
