@@ -163,6 +163,32 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/blogcastpod'>
+            <span class='name'>Blog Cast</span><span class='screen-name'>@blogcastpod</span>
+        </a>
+    </h2>
+
+    <p>
+        Your favorite blog posts about the wonderful world of technology and data, read to you. Suggest your favorite posts, or read for us!
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/vriawantstocode'>
+            <span class='name'>Vria</span><span class='screen-name'>@vriawantstocode</span>
+        </a>
+    </h2>
+
+    <p>
+        Student at #WGU
+Coding Newbie at #TheOdinProject
+Driver at #Uber
+Believer at #LordsRecovery
+Drama Addict at #Viki #KissAsian
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Complicated1012'>
             <span class='name'>Rigid Dilation</span><span class='screen-name'>@Complicated1012</span>
         </a>
@@ -170,30 +196,6 @@
 
     <p>
         IT, learning software engineer (iot)
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/LearnerByLife'>
-            <span class='name'>Learn4Ever</span><span class='screen-name'>@LearnerByLife</span>
-        </a>
-    </h2>
-
-    <p>
-        Self-Learning in Progress! Follow-back not mandatory.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Pytlicek'>
-            <span class='name'>Tomas Pytel</span><span class='screen-name'>@Pytlicek</span>
-        </a>
-    </h2>
-
-    <p>
-        Python Developer. @PyCon speaker. @PyConSK organizer. @ThePSF member. 
-Currently following TwitterBots for fun and profit 😂
-All opinions are my own.
     </p>
 </li>
 
