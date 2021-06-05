@@ -163,14 +163,25 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/driscollis'>
+            <span class='name'>Mike Driscoll</span><span class='screen-name'>@driscollis</span>
+        </a>
+    </h2>
+
+    <p>
+        Author of Python books, blogger @mousevspython and Python enthusiast. Also part of the tutorial team @realpython
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Vegan_Engineer_'>
             <span class='name'>The Vegan Engineer</span><span class='screen-name'>@Vegan_Engineer_</span>
         </a>
     </h2>
 
     <p>
-        🙂🌱
-M.ENG and B.S. in B.M.E.
+        🇩🇴🇳🇬✝️🙂🌱 
+M.ENG & B.S.
 Data Engineer + Biomedical Engineer Fusing:
 🥑| #plantbasednutrition & food hacks
 🍠| #PlantBased (15 Yrs)
@@ -187,21 +198,6 @@ Data Engineer + Biomedical Engineer Fusing:
 
     <p>
         Your favorite blog posts about the wonderful world of technology and data, read to you. Suggest posts or read for us - we're open to contributions! Host @spbail
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/vriawantstocode'>
-            <span class='name'>Vria</span><span class='screen-name'>@vriawantstocode</span>
-        </a>
-    </h2>
-
-    <p>
-        Student at #WGU
-Coding Newbie at #TheOdinProject
-Driver at #Uber
-Believer at #LordsRecovery
-Drama Addict at #Viki #KissAsian
     </p>
 </li>
 
