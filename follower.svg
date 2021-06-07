@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/jasongroulx'>
+            <span class='name'>Jason Groulx</span><span class='screen-name'>@jasongroulx</span>
+        </a>
+    </h2>
+
+    <p>
+        Developer at @Vehikl
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/cmgriffing'>
             <span class='name'>Chris Griffing</span><span class='screen-name'>@cmgriffing</span>
         </a>
@@ -185,17 +196,6 @@
 
     <p>
         Should be playing 3x as much football as I am right now, please Ole let me have some game time, how are you playing Fred over me
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/eva_kuator'>
-            <span class='name'>EvaKuator</span><span class='screen-name'>@eva_kuator</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
