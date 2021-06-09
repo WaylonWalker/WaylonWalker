@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/SudzByte22'>
+            <span class='name'>Matt Sutherland</span><span class='screen-name'>@SudzByte22</span>
+        </a>
+    </h2>
+
+    <p>
+        International Demo Guy (IDG) & ServiceNow enthusiast
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/cshkrs'>
             <span class='name'>Tonatiuh</span><span class='screen-name'>@cshkrs</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Currently building an open source project management system called NearBeach https://t.co/B7v3DEOXZs https://t.co/raXffDJ9t2
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/jasongroulx'>
-            <span class='name'>Jason Groulx</span><span class='screen-name'>@jasongroulx</span>
-        </a>
-    </h2>
-
-    <p>
-        Developer at @Vehikl
     </p>
 </li>
 
