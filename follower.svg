@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/studioswong'>
+            <span class='name'>Susanna Wong</span><span class='screen-name'>@studioswong</span>
+        </a>
+    </h2>
+
+    <p>
+        Senior Front end dev in the exciting field of data-viz + web. Proud core member of #Kedro #KedroViz. Google dev expert (web). Humbly learning everyday.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/c_schreiber1'>
             <span class='name'>Caroline Schreiber</span><span class='screen-name'>@c_schreiber1</span>
         </a>
@@ -176,17 +187,6 @@
     <h2>
         <a href='https://twitter.com/DMdmanley'>
             <span class='name'>dcu.mdmanley@gmail.com</span><span class='screen-name'>@DMdmanley</span>
-        </a>
-    </h2>
-
-    <p>
-        
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/devLuciferx'>
-            <span class='name'>Dev Ahmed</span><span class='screen-name'>@devLuciferx</span>
         </a>
     </h2>
 
