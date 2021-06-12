@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/brendospeaks'>
+            <span class='name'>Brendan Speakman</span><span class='screen-name'>@brendospeaks</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/studioswong'>
             <span class='name'>Susanna Wong</span><span class='screen-name'>@studioswong</span>
         </a>
@@ -176,17 +187,6 @@
     <h2>
         <a href='https://twitter.com/c_schreiber1'>
             <span class='name'>Caroline Schreiber</span><span class='screen-name'>@c_schreiber1</span>
-        </a>
-    </h2>
-
-    <p>
-        
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/DMdmanley'>
-            <span class='name'>dcu.mdmanley@gmail.com</span><span class='screen-name'>@DMdmanley</span>
         </a>
     </h2>
 
