@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/romanwhales'>
+            <span class='name'>Wale</span><span class='screen-name'>@romanwhales</span>
+        </a>
+    </h2>
+
+    <p>
+        Husband, I translate art into code & MC(Weekends). DISCLAIMER: Views are my own.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/brendospeaks'>
             <span class='name'>Brendan Speakman</span><span class='screen-name'>@brendospeaks</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Senior Front end dev in the exciting field of data-viz + web. Proud core member of #Kedro #KedroViz. Google dev expert (web). Humbly learning everyday.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/c_schreiber1'>
-            <span class='name'>Caroline Schreiber</span><span class='screen-name'>@c_schreiber1</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
