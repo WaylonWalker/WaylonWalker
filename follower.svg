@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/DuhawalaMurtaza'>
+            <span class='name'>Murtaza Duhawala</span><span class='screen-name'>@DuhawalaMurtaza</span>
+        </a>
+    </h2>
+
+    <p>
+        immutable developer ≠ podcast @whattotalk2
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/romanwhales'>
             <span class='name'>Wale</span><span class='screen-name'>@romanwhales</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/studioswong'>
-            <span class='name'>Susanna Wong</span><span class='screen-name'>@studioswong</span>
-        </a>
-    </h2>
-
-    <p>
-        Senior Front end dev in the exciting field of data-viz + web. Proud core member of #Kedro #KedroViz. Google dev expert (web). Humbly learning everyday.
     </p>
 </li>
 
