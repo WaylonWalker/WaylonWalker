@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/akinoue'>
+            <span class='name'>inoue.a</span><span class='screen-name'>@akinoue</span>
+        </a>
+    </h2>
+
+    <p>
+        統計数理エンジニア
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/headwinds'>
             <span class='name'>Brandøn Fløwers</span><span class='screen-name'>@headwinds</span>
         </a>
@@ -182,17 +193,6 @@
     <p>
         A wanna be twitch streamer, doing code streams.
 https://t.co/76XEWpBlfH https://t.co/XiOOoBSVGX
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/romanwhales'>
-            <span class='name'>Wale</span><span class='screen-name'>@romanwhales</span>
-        </a>
-    </h2>
-
-    <p>
-        Husband, I translate art into code & MC(Weekends). DISCLAIMER: Views are my own.
     </p>
 </li>
 
