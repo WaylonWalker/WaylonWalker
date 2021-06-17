@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/_romeopeter'>
+            <span class='name'>Romeo</span><span class='screen-name'>@_romeopeter</span>
+        </a>
+    </h2>
+
+    <p>
+        Unashamed ✞ | software developer | content creator | I tweet thoughts.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/akinoue'>
             <span class='name'>inoue.a</span><span class='screen-name'>@akinoue</span>
         </a>
@@ -181,18 +192,6 @@
 
     <p>
         product design, frontend architect & data viz @loblawdigital; side projects involve that city/country split, NLP, indie gaming, running, camp fires & cabins
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/codeinpublic'>
-            <span class='name'>code in public</span><span class='screen-name'>@codeinpublic</span>
-        </a>
-    </h2>
-
-    <p>
-        A wanna be twitch streamer, doing code streams.
-https://t.co/76XEWpBlfH https://t.co/9d2tKKYYqJ
     </p>
 </li>
 
