@@ -163,6 +163,38 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/DustinHaraden'>
+            <span class='name'>Dustin Haraden (he/him)</span><span class='screen-name'>@DustinHaraden</span>
+        </a>
+    </h2>
+
+    <p>
+        Clinical/Community Psych PhD Student 
+@rstudio Enthusiast
+Research: Chronotype|Puberty|Depression
+Co-host: You Can Grad School (@can_grad)
+@GitKraken Ambassador
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/indiebreaker'>
+            <span class='name'>Indie Breaker</span><span class='screen-name'>@indiebreaker</span>
+        </a>
+    </h2>
+
+    <p>
+        📦 Built https://t.co/jNyDT5VHRF 
+🤖 Data Scientist
+🧙 Opensourcerer (JS, Python)
+
+@indiebreaker (twitch/instagram/medium/dev.to)
+
+#buildinpublic
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/imolalola'>
             <span class='name'>Lola</span><span class='screen-name'>@imolalola</span>
         </a>
@@ -170,28 +202,6 @@
 
     <p>
         I do things on the internet 💖
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/gmyrianthous'>
-            <span class='name'>Giorgos Myrianthous</span><span class='screen-name'>@gmyrianthous</span>
-        </a>
-    </h2>
-
-    <p>
-        AI/ML Engineer | Python Developer
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/tiryakiarda'>
-            <span class='name'>Arda Tiryaki</span><span class='screen-name'>@tiryakiarda</span>
-        </a>
-    </h2>
-
-    <p>
-        16 years old Interested in Machine Learning
     </p>
 </li>
 
