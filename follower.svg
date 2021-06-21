@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/moses_otieno'>
+            <span class='name'>Moses Otieno</span><span class='screen-name'>@moses_otieno</span>
+        </a>
+    </h2>
+
+    <p>
+        Husband | Data Analyst | Brother | Programmer | Web Designer
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/kierisi'>
             <span class='name'>Jesse Mostipak is making mirepoix for #SLICED</span><span class='screen-name'>@kierisi</span>
         </a>
@@ -189,23 +200,6 @@
 Research: Chronotype|Puberty|Depression
 Co-host: You Can Grad School (@can_grad)
 @GitKraken Ambassador
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/indiebreaker'>
-            <span class='name'>Indie Breaker</span><span class='screen-name'>@indiebreaker</span>
-        </a>
-    </h2>
-
-    <p>
-        📦 Built https://t.co/jNyDT5VHRF 
-🤖 Data Scientist
-🧙 Opensourcerer (JS, Python)
-
-@indiebreaker (twitch/instagram/medium/dev.to)
-
-#buildinpublic
     </p>
 </li>
 
