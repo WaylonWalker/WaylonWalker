@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/PowerDownCloud'>
+            <span class='name'>PowerDown</span><span class='screen-name'>@PowerDownCloud</span>
+        </a>
+    </h2>
+
+    <p>
+        Accelerating the Cloud. Developing for #AWS, #DevOps, #CyberSecurity. Blog: https://t.co/R9VFY2bkWQ
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/StevenBKabungwe'>
             <span class='name'>Steven Kabungwe</span><span class='screen-name'>@StevenBKabungwe</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         404 NOT FOUND
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Pipe14739438'>
-            <span class='name'>Pipe</span><span class='screen-name'>@Pipe14739438</span>
-        </a>
-    </h2>
-
-    <p>
-        A pipe a day keeps the jitters at bay
     </p>
 </li>
 
