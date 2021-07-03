@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/jbyuki2'>
+            <span class='name'>jbyuki</span><span class='screen-name'>@jbyuki2</span>
+        </a>
+    </h2>
+
+    <p>
+        Robotics by daylight / hobbyist programmer in late hours
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/manukmrbansal'>
             <span class='name'>Manu Bansal</span><span class='screen-name'>@manukmrbansal</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Learning effective representations from raw data using Artificial Neural Networks
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Chirpy_Geek'>
-            <span class='name'>Akanksha Singh</span><span class='screen-name'>@Chirpy_Geek</span>
-        </a>
-    </h2>
-
-    <p>
-        Energetic|| Data Engineer||Siemens|| Ex- Boschler|| I like to read and share articles. My @Jsbot6. Learning french.
     </p>
 </li>
 
