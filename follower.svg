@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/ayaydara'>
+            <span class='name'>aydara</span><span class='screen-name'>@ayaydara</span>
+        </a>
+    </h2>
+
+    <p>
+        Software engineer with experience in three industries - Infosec, AI and Fintech.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/jbyuki2'>
             <span class='name'>jbyuki</span><span class='screen-name'>@jbyuki2</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         solving data quality for modern ELT, cofounder https://t.co/AUsEruzbvo, cofounder https://t.co/GbLZgEGDhU (now VMWare), husband of awesome, dad of twins, night owl
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Otudieee'>
-            <span class='name'>HO</span><span class='screen-name'>@Otudieee</span>
-        </a>
-    </h2>
-
-    <p>
-        Learning effective representations from raw data using Artificial Neural Networks
     </p>
 </li>
 
