@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/FredySomy'>
+            <span class='name'>Fredy Somy</span><span class='screen-name'>@FredySomy</span>
+        </a>
+    </h2>
+
+    <p>
+        Software Developer, JavaScript & Python, Open Source Dev , 3D Portfolio https://t.co/zAJXrnImY8, Buy me Coffee https://t.co/CCVz97mtjh
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/MichalKoziol1'>
             <span class='name'>Michal Koziol</span><span class='screen-name'>@MichalKoziol1</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Tangling in Neovim
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Otudieee'>
-            <span class='name'>HO</span><span class='screen-name'>@Otudieee</span>
-        </a>
-    </h2>
-
-    <p>
-        Learning effective representations from raw data using Artificial Neural Networks
     </p>
 </li>
 
