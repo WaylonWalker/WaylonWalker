@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/MichalKoziol1'>
+            <span class='name'>Michal Koziol</span><span class='screen-name'>@MichalKoziol1</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/jbyuki2'>
             <span class='name'>jbyuki</span><span class='screen-name'>@jbyuki2</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Learning effective representations from raw data using Artificial Neural Networks
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Chirpy_Geek'>
-            <span class='name'>Akanksha Singh</span><span class='screen-name'>@Chirpy_Geek</span>
-        </a>
-    </h2>
-
-    <p>
-        Energetic|| Data Engineer||Siemens|| Ex- Boschler|| I like to read and share articles.
     </p>
 </li>
 
