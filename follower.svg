@@ -163,6 +163,29 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/RobinVerton'>
+            <span class='name'>Robin Verton</span><span class='screen-name'>@RobinVerton</span>
+        </a>
+    </h2>
+
+    <p>
+        pentester, developer, bounty hunter. I make things, I break things.
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/alyssastweeting'>
+            <span class='name'>Alyssa</span><span class='screen-name'>@alyssastweeting</span>
+        </a>
+    </h2>
+
+    <p>
+        Lover of sports and also sporks 🏒 
+Womens Hockey Analytics & Analysis 📈
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/LGtz1288'>
             <span class='name'>Luis Gutierrez</span><span class='screen-name'>@LGtz1288</span>
         </a>
@@ -172,28 +195,6 @@
         Accountant 👨🏾‍💼
 Data Analyst in progress 👨🏾‍💻
 Coffee lover ☕
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/mmulrooney'>
-            <span class='name'>Matthew Mulrooney</span><span class='screen-name'>@mmulrooney</span>
-        </a>
-    </h2>
-
-    <p>
-        Freelance software ninja.  Automation specialist.  Past president of Ultimate Canada.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/4tytwo_'>
-            <span class='name'>vasilis</span><span class='screen-name'>@4tytwo_</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
