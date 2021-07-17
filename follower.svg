@@ -163,6 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/LGtz1288'>
+            <span class='name'>Luis Gutierrez</span><span class='screen-name'>@LGtz1288</span>
+        </a>
+    </h2>
+
+    <p>
+        Accountant 👨🏾‍💼
+Data Analyst in progress 👨🏾‍💻
+Coffee lover ☕
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/mmulrooney'>
             <span class='name'>Matthew Mulrooney</span><span class='screen-name'>@mmulrooney</span>
         </a>
@@ -181,18 +194,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/raunakagl'>
-            <span class='name'>Raunak</span><span class='screen-name'>@raunakagl</span>
-        </a>
-    </h2>
-
-    <p>
-        #NLProc, Information Retrieval, Politics.
-Researching climate change discourse at Universität Potsdam.
     </p>
 </li>
 
