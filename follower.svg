@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/_duhawala'>
+            <span class='name'>Duhawala</span><span class='screen-name'>@_duhawala</span>
+        </a>
+    </h2>
+
+    <p>
+        I am learning python to achieve the fundamentals and practise towards “ai”.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/NidhiGu74193759'>
             <span class='name'>Nidhi Gupta</span><span class='screen-name'>@NidhiGu74193759</span>
         </a>
@@ -182,21 +193,6 @@ MS-Excel📉| Grafana| HTML | CSS | Python| Timescale DB| Data Migration| Data A
 
     <p>
         a pinoy-kānaka (hapa) who speaks some esperanto and python. decolonization and possibilism.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/tanay09970447'>
-            <span class='name'>tanay</span><span class='screen-name'>@tanay09970447</span>
-        </a>
-    </h2>
-
-    <p>
-        15
-Human
-can code
-Web / Rust
-on GitHub link below
     </p>
 </li>
 
