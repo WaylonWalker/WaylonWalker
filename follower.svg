@@ -163,13 +163,24 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/ThePankajKolhe'>
+            <span class='name'>Pankaj Kolhe</span><span class='screen-name'>@ThePankajKolhe</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/_duhawala'>
             <span class='name'>Duhawala</span><span class='screen-name'>@_duhawala</span>
         </a>
     </h2>
 
     <p>
-        I am learning python to achieve the fundamentals and practise towards “ai”.
+        👨🏻‍💻 Practising ML/AI. 🐍 Learning Python.
     </p>
 </li>
 <li>
@@ -182,17 +193,6 @@
     <p>
         I 💙 Data| Database Developer(SQL and NO-SQL) | Tableau📊 | 
 MS-Excel📉| Grafana| HTML | CSS | Python| Timescale DB| Data Migration| Data Analyst👨‍💻| Blogger✍
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/memsuvereno'>
-            <span class='name'>ᜊᜓᜇ ᜏᜈᜊᜒ</span><span class='screen-name'>@memsuvereno</span>
-        </a>
-    </h2>
-
-    <p>
-        a pinoy-kānaka (hapa) who speaks some esperanto and python. decolonization and possibilism.
     </p>
 </li>
 
