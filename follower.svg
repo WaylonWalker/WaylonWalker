@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/DevonTenney'>
+            <span class='name'>Devon Tenney</span><span class='screen-name'>@DevonTenney</span>
+        </a>
+    </h2>
+
+    <p>
+        Data engineer, dabbles in data science and gardening.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/joseabl'>
             <span class='name'>Jose Briceno</span><span class='screen-name'>@joseabl</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         How's taste my tweet tweet?
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/karim_amer7'>
-            <span class='name'>karim</span><span class='screen-name'>@karim_amer7</span>
-        </a>
-    </h2>
-
-    <p>
-        Writing Pharaonic code. I make music, love coffee, enjoy code and functional programing. Destroying  software a tweet at  time.
     </p>
 </li>
 
