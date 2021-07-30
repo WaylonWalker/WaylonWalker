@@ -163,6 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Pytlicek'>
+            <span class='name'>Tomas Pytel</span><span class='screen-name'>@Pytlicek</span>
+        </a>
+    </h2>
+
+    <p>
+        Python engineer. @ThePSF member. 
+@PyConSK organizer. @PyCon speaker. 
+All opinions are my own.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/DevonTenney'>
             <span class='name'>Devon Tenney</span><span class='screen-name'>@DevonTenney</span>
         </a>
@@ -181,17 +194,6 @@
 
     <p>
         https://t.co/1HXdJZ07bq
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/gotbletu'>
-            <span class='name'>goTbleTU</span><span class='screen-name'>@gotbletu</span>
-        </a>
-    </h2>
-
-    <p>
-        How's taste my tweet tweet?
     </p>
 </li>
 
