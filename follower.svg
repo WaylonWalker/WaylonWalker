@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/rohan_sen132'>
+            <span class='name'>RohaaanSengupta</span><span class='screen-name'>@rohan_sen132</span>
+        </a>
+    </h2>
+
+    <p>
+        Undergrad fresher CSE student | AI | Web-Dev | Flask | Python | C/C++ | DSA | Still exploring my way forward.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/Maaaax_C'>
             <span class='name'>Maxim Ciornii</span><span class='screen-name'>@Maaaax_C</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/DevonTenney'>
-            <span class='name'>Devon Tenney</span><span class='screen-name'>@DevonTenney</span>
-        </a>
-    </h2>
-
-    <p>
-        Data engineer, dabbles in data science and gardening.
     </p>
 </li>
 
