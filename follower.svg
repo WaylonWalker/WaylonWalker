@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/justus_analyst'>
+            <span class='name'>Justus</span><span class='screen-name'>@justus_analyst</span>
+        </a>
+    </h2>
+
+    <p>
+        Python, SQL, Data Analyst, Data Scientist, Economist/statistician,
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/yapayzekanedir'>
             <span class='name'>akinn</span><span class='screen-name'>@yapayzekanedir</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Hi! I'm a Singh who loves to write code and I'm tweeting random stuff and also about my journey in tech ⚡ Support #FarmerProtest 🙌
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/za8lola7'>
-            <span class='name'>za8lola</span><span class='screen-name'>@za8lola7</span>
-        </a>
-    </h2>
-
-    <p>
-        A data engineer trying to escape.
     </p>
 </li>
 
