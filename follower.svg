@@ -163,13 +163,26 @@
         <ul class='followers'>
             <li>
     <h2>
-        <a href='https://twitter.com/coderahuljat'>
-            <span class='name'>Rahul Jat (100DaysOfCode)</span><span class='screen-name'>@coderahuljat</span>
+        <a href='https://twitter.com/qmacro'>
+            <span class='name'>DJ Adams</span><span class='screen-name'>@qmacro</span>
         </a>
     </h2>
 
     <p>
-        A guy who loves waking up 🤩 and coding👨🏼‍💻 early in the morning. Laravel | React | React Native | Vue | JavaScript | Git | AWS | Linux | MySQL | MongoDB
+        Developer Advocate at SAP.
+
+All opinions my own, one of which is: If you need to be told this, you'd be better steering clear of social media.
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/rexroof'>
+            <span class='name'>Rex Roof</span><span class='screen-name'>@rexroof</span>
+        </a>
+    </h2>
+
+    <p>
+        exploring the incongruous
     </p>
 </li>
 <li>
@@ -181,18 +194,6 @@
 
     <p>
         Gamer, aspiring cyber security worker, husband
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/PhilipA67309793'>
-            <span class='name'>Ophanim</span><span class='screen-name'>@PhilipA67309793</span>
-        </a>
-    </h2>
-
-    <p>
-        Security Researcher
-Bug Bounty Hunter
     </p>
 </li>
 
