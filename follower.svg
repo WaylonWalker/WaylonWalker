@@ -163,6 +163,18 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/PhilipA67309793'>
+            <span class='name'>Ophanim</span><span class='screen-name'>@PhilipA67309793</span>
+        </a>
+    </h2>
+
+    <p>
+        Security Researcher
+Bug Bounty Hunter
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/justus_analyst'>
             <span class='name'>Justus</span><span class='screen-name'>@justus_analyst</span>
         </a>
@@ -181,17 +193,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/ankushsgandhi'>
-            <span class='name'>Ankush Singh Gandhi</span><span class='screen-name'>@ankushsgandhi</span>
-        </a>
-    </h2>
-
-    <p>
-        Hi! I'm a Singh who loves to write code and I'm tweeting random stuff and also about my journey in tech ⚡ Support #FarmerProtest 🙌
     </p>
 </li>
 
