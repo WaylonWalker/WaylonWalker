@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/coderahuljat'>
+            <span class='name'>Rahul Jat (100DaysOfCode)</span><span class='screen-name'>@coderahuljat</span>
+        </a>
+    </h2>
+
+    <p>
+        A guy who loves waking up 🤩 and coding👨🏼‍💻 early in the morning. Laravel | React | React Native | Vue | JavaScript | Git | AWS | Linux | MySQL | MongoDB
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/joshuacraven11'>
+            <span class='name'>joshua craven</span><span class='screen-name'>@joshuacraven11</span>
+        </a>
+    </h2>
+
+    <p>
+        Gamer, aspiring cyber security worker, husband
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/PhilipA67309793'>
             <span class='name'>Ophanim</span><span class='screen-name'>@PhilipA67309793</span>
         </a>
@@ -171,28 +193,6 @@
     <p>
         Security Researcher
 Bug Bounty Hunter
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/justus_analyst'>
-            <span class='name'>Justus</span><span class='screen-name'>@justus_analyst</span>
-        </a>
-    </h2>
-
-    <p>
-        Python, SQL, Data Analyst, Data Scientist, Economist/statistician,
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/yapayzekanedir'>
-            <span class='name'>akinn</span><span class='screen-name'>@yapayzekanedir</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
