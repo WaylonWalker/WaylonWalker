@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/danielcranney'>
+            <span class='name'>Daniel Cranney 🇬🇧</span><span class='screen-name'>@danielcranney</span>
+        </a>
+    </h2>
+
+    <p>
+        A designer, filmmaking teacher and small business owner on the road to full stack 💻 Tweeting about design, development & entrepreneurship.
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/javascript_devs'>
+            <span class='name'>Al Diaz</span><span class='screen-name'>@javascript_devs</span>
+        </a>
+    </h2>
+
+    <p>
+        Full Stack Engineer and Sec. Research
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/qmacro'>
             <span class='name'>DJ Adams</span><span class='screen-name'>@qmacro</span>
         </a>
@@ -172,28 +194,6 @@
         Developer Advocate at SAP.
 
 All opinions my own, one of which is: If you need to be told this, you'd be better steering clear of social media.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/rexroof'>
-            <span class='name'>Rex Roof</span><span class='screen-name'>@rexroof</span>
-        </a>
-    </h2>
-
-    <p>
-        exploring the incongruous
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/joshuacraven11'>
-            <span class='name'>joshua craven</span><span class='screen-name'>@joshuacraven11</span>
-        </a>
-    </h2>
-
-    <p>
-        Gamer, aspiring cyber security worker, husband
     </p>
 </li>
 
