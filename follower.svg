@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/desmosthenes'>
+            <span class='name'>Marko Bajlovic</span><span class='screen-name'>@desmosthenes</span>
+        </a>
+    </h2>
+
+    <p>
+        Multidisciplinary creative and full-stack developer; forever learning. I tweet dev, tech, design, politics, science & more. https://t.co/SBRLmgKb3R
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/danielcranney'>
             <span class='name'>Daniel Cranney 🇬🇧</span><span class='screen-name'>@danielcranney</span>
         </a>
@@ -181,19 +192,6 @@
 
     <p>
         Full Stack Engineer and Sec. Research
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/qmacro'>
-            <span class='name'>DJ Adams</span><span class='screen-name'>@qmacro</span>
-        </a>
-    </h2>
-
-    <p>
-        Developer Advocate at SAP.
-
-All opinions my own, one of which is: If you need to be told this, you'd be better steering clear of social media.
     </p>
 </li>
 
