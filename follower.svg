@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/chan_dev_14'>
+            <span class='name'>chanDev</span><span class='screen-name'>@chan_dev_14</span>
+        </a>
+    </h2>
+
+    <p>
+        Front-end Developer
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/bfredlbfredl'>
             <span class='name'>bfredl</span><span class='screen-name'>@bfredlbfredl</span>
         </a>
@@ -183,19 +194,6 @@ bfredl/bfredl/bfredl's
 
     <p>
         just trying to write some code...
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/CptWalrusDev'>
-            <span class='name'>CptWalrus</span><span class='screen-name'>@CptWalrusDev</span>
-        </a>
-    </h2>
-
-    <p>
-        A guy who streams code and stuff.
-
-@ https://t.co/hKxmOcRB0I
     </p>
 </li>
 
