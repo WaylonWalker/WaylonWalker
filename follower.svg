@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/GaelReyrol'>
+            <span class='name'>Gaël Reyrol</span><span class='screen-name'>@GaelReyrol</span>
+        </a>
+    </h2>
+
+    <p>
+        #RollerDerby player & @42born2code alumni, support guy @clever_cloud #OnEstLaTech ✊ 🚩https://t.co/RuH9Cg0pLV
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/vincenthgstdr'>
+            <span class='name'>Vincent Hoogsteder</span><span class='screen-name'>@vincenthgstdr</span>
+        </a>
+    </h2>
+
+    <p>
+        Co-founder https://t.co/J5oDRPdMjH, on a mission to create an open, iterative workflow for data scientists. Prev built analytics with @distimo/@appannie.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/javachipd'>
             <span class='name'>Utkarsh Goel</span><span class='screen-name'>@javachipd</span>
         </a>
@@ -170,30 +192,6 @@
 
     <p>
         Founder: @deploifai; cofounder: @clearbothk
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/chan_dev_14'>
-            <span class='name'>chanDev</span><span class='screen-name'>@chan_dev_14</span>
-        </a>
-    </h2>
-
-    <p>
-        Front-end Developer
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/bfredlbfredl'>
-            <span class='name'>bfredl</span><span class='screen-name'>@bfredlbfredl</span>
-        </a>
-    </h2>
-
-    <p>
-        On twitter only for the memes. Doing the real work over at https://t.co/omNwdtw2Bb (always work in progress). I use master neovim.
-
-bfredl/bfredl/bfredl's
     </p>
 </li>
 
