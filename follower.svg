@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/javachipd'>
+            <span class='name'>Utkarsh Goel</span><span class='screen-name'>@javachipd</span>
+        </a>
+    </h2>
+
+    <p>
+        Founder: @deploifai; cofounder: @clearbothk
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/chan_dev_14'>
             <span class='name'>chanDev</span><span class='screen-name'>@chan_dev_14</span>
         </a>
@@ -183,17 +194,6 @@
         On twitter only for the memes. Doing the real work over at https://t.co/omNwdtw2Bb (always work in progress). I use master neovim.
 
 bfredl/bfredl/bfredl's
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/ABawesomed'>
-            <span class='name'>ABD</span><span class='screen-name'>@ABawesomed</span>
-        </a>
-    </h2>
-
-    <p>
-        just trying to write some code...
     </p>
 </li>
 
