@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/tom_clark'>
+            <span class='name'>Tom Clark</span><span class='screen-name'>@tom_clark</span>
+        </a>
+    </h2>
+
+    <p>
+        DevOps monkey and Pythonista at @runawayplay. I am an occasional lecturer at Otago Polytechnic and current president of @NZPUG. Immigrant. he/him
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/GaelReyrol'>
             <span class='name'>Gaël Reyrol</span><span class='screen-name'>@GaelReyrol</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Co-founder https://t.co/J5oDRPdMjH, on a mission to create an open, iterative workflow for data scientists. Prev built analytics with @distimo/@appannie.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/javachipd'>
-            <span class='name'>Utkarsh Goel</span><span class='screen-name'>@javachipd</span>
-        </a>
-    </h2>
-
-    <p>
-        Founder: @deploifai; cofounder: @clearbothk
     </p>
 </li>
 
