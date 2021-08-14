@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/AdamJRochette'>
+            <span class='name'>Adam Rochette</span><span class='screen-name'>@AdamJRochette</span>
+        </a>
+    </h2>
+
+    <p>
+        Building https://t.co/8PFRkqjXnP in public. I make https://t.co/qDP65TryVy for fun. I occasionally write things at https://t.co/4ItCUnjI5r.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/bzg_amirhosein'>
             <span class='name'>AmirHosein</span><span class='screen-name'>@bzg_amirhosein</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         DevOps monkey and Pythonista at @runawayplay. I am an occasional lecturer at Otago Polytechnic and current president of @NZPUG. Immigrant. he/him
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/GaelReyrol'>
-            <span class='name'>Gaël Reyrol</span><span class='screen-name'>@GaelReyrol</span>
-        </a>
-    </h2>
-
-    <p>
-        #RollerDerby player & @42born2code alumni, support guy @clever_cloud #OnEstLaTech ✊ 🚩https://t.co/RuH9Cg0pLV
     </p>
 </li>
 
