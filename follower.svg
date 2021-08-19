@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/blissdev'>
+            <span class='name'>Jordan Arentsen</span><span class='screen-name'>@blissdev</span>
+        </a>
+    </h2>
+
+    <p>
+        Really likes hot weather.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/GawrysAriel'>
             <span class='name'>Ariel Gawryś</span><span class='screen-name'>@GawrysAriel</span>
         </a>
@@ -181,20 +192,6 @@
 
     <p>
         NodeJs Backend Developer👨🏻‍💻
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/a4w_m6h'>
-            <span class='name'>Andrew Meredith</span><span class='screen-name'>@a4w_m6h</span>
-        </a>
-    </h2>
-
-    <p>
-        I love databases, programming languages, and general tech esoterica.
-📚 https://t.co/IzDlDdqnCW
-👔 https://t.co/d4sF7Eqf98
-Personal tweets @asmeredith
     </p>
 </li>
 
