@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/p2pdht'>
+            <span class='name'>Decentralize</span><span class='screen-name'>@p2pdht</span>
+        </a>
+    </h2>
+
+    <p>
+        Funnies,Tech,Futurism,Random
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/blissdev'>
             <span class='name'>Jordan Arentsen</span><span class='screen-name'>@blissdev</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Dev_Parham'>
-            <span class='name'>Parham</span><span class='screen-name'>@Dev_Parham</span>
-        </a>
-    </h2>
-
-    <p>
-        NodeJs Backend Developer👨🏻‍💻
     </p>
 </li>
 
