@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/t2v12'>
+            <span class='name'>Anatoly</span><span class='screen-name'>@t2v12</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/nikolalsvk'>
             <span class='name'>Nikola Đuza</span><span class='screen-name'>@nikolalsvk</span>
         </a>
@@ -182,17 +193,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/p2pdht'>
-            <span class='name'>Decentralize</span><span class='screen-name'>@p2pdht</span>
-        </a>
-    </h2>
-
-    <p>
-        Funnies,Tech,Futurism,Random
     </p>
 </li>
 
