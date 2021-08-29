@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/gstvleite'>
+            <span class='name'>Gustavo Leite 🦀</span><span class='screen-name'>@gstvleite</span>
+        </a>
+    </h2>
+
+    <p>
+        CS PhD student • High Performance Computing • C++/Rust/Python • 🇧🇷🇺🇸🇩🇪
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/VimconfLive'>
+            <span class='name'>VimConf.Live</span><span class='screen-name'>@VimconfLive</span>
+        </a>
+    </h2>
+
+    <p>
+        The virtual Vim conference, come and join all the vim goodness!
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/HardikDoesAI'>
             <span class='name'>Hardik 🤖</span><span class='screen-name'>@HardikDoesAI</span>
         </a>
@@ -170,28 +192,6 @@
 
     <p>
         Exploring Machine Learning • Helping you to learn it too • Let's Connect 🤝
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/j8ahmed'>
-            <span class='name'>Jamal J8 🕸</span><span class='screen-name'>@j8ahmed</span>
-        </a>
-    </h2>
-
-    <p>
-        🇨🇦 #Frontend Developer | Currently learning #Backend & working on #100DaysofCode. Sharing what I learn and resources that might help. #stepbystep.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/t2v12'>
-            <span class='name'>Anatoly</span><span class='screen-name'>@t2v12</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
