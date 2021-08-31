@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/thisisbillall'>
+            <span class='name'>Mohammad Bilal</span><span class='screen-name'>@thisisbillall</span>
+        </a>
+    </h2>
+
+    <p>
+        Web / App developer | Open source
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/mmngreco'>
             <span class='name'>MaxG</span><span class='screen-name'>@mmngreco</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         🎙️Panelist on @JSPartyFM. 📣 Organizer of @nebraskajs. 🧙‍♀️ Emcee of @TypeScriptConf. 👨‍💻TypeScript at @C2FO. He/him.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/gstvleite'>
-            <span class='name'>Gustavo Leite 🦀</span><span class='screen-name'>@gstvleite</span>
-        </a>
-    </h2>
-
-    <p>
-        CS PhD student • High Performance Computing • C++/Rust/Python • 🇧🇷🇺🇸🇩🇪
     </p>
 </li>
 
