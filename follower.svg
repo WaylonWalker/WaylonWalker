@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/mmngreco'>
+            <span class='name'>MaxG</span><span class='screen-name'>@mmngreco</span>
+        </a>
+    </h2>
+
+    <p>
+        I'm an economist who learnt to program | I'm procrastinatign by editing  my init.vim | Python lover | https://t.co/fK6GbWgLxX
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/nicknisi'>
             <span class='name'>Nick Nisi</span><span class='screen-name'>@nicknisi</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         CS PhD student • High Performance Computing • C++/Rust/Python • 🇧🇷🇺🇸🇩🇪
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/VimconfLive'>
-            <span class='name'>VimConf.Live</span><span class='screen-name'>@VimconfLive</span>
-        </a>
-    </h2>
-
-    <p>
-        The virtual Vim conference, come and join all the vim goodness!
     </p>
 </li>
 
