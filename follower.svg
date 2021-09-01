@@ -163,6 +163,20 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/robjrobbie'>
+            <span class='name'>Rob B</span><span class='screen-name'>@robjrobbie</span>
+        </a>
+    </h2>
+
+    <p>
+        Podcast wizard on @BiggerMoviePod 
+The #CodeWords Podcast - Coming soon
+On R3 of the #100DaysOfCode challenge
+Hiking 🗻 Cycling 🚲 SUP  🛶 Veggie 🥕 HP ⚡️
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/thisisbillall'>
             <span class='name'>Mohammad Bilal</span><span class='screen-name'>@thisisbillall</span>
         </a>
@@ -181,17 +195,6 @@
 
     <p>
         I'm an economist who learnt to program | I'm procrastinatign by editing  my init.vim | Python lover | https://t.co/fK6GbWgLxX
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/nicknisi'>
-            <span class='name'>Nick Nisi</span><span class='screen-name'>@nicknisi</span>
-        </a>
-    </h2>
-
-    <p>
-        🎙️Panelist on @JSPartyFM. 📣 Organizer of @nebraskajs. 🧙‍♀️ Emcee of @TypeScriptConf. 👨‍💻TypeScript at @C2FO. He/him.
     </p>
 </li>
 
