@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/dajones_eng'>
+            <span class='name'>Dale Jones</span><span class='screen-name'>@dajones_eng</span>
+        </a>
+    </h2>
+
+    <p>
+        Consultant Product Design Mechanical Engineer & Founder @Form_Lab. I Engineer Technology Products. I'm passionate about #STEAM, doing, learning and sharing.
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/robjrobbie'>
             <span class='name'>Rob B</span><span class='screen-name'>@robjrobbie</span>
         </a>
@@ -184,17 +195,6 @@ Hiking 🗻 Cycling 🚲 SUP  🛶 Veggie 🥕 HP ⚡️
 
     <p>
         Web / App developer | Open source
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/mmngreco'>
-            <span class='name'>MaxG</span><span class='screen-name'>@mmngreco</span>
-        </a>
-    </h2>
-
-    <p>
-        I'm an economist who learnt to program | I'm procrastinatign by editing  my init.vim | Python lover | https://t.co/fK6GbWgLxX
     </p>
 </li>
 
