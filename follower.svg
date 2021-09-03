@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/testerRudrika'>
+            <span class='name'>RUDRIKA</span><span class='screen-name'>@testerRudrika</span>
+        </a>
+    </h2>
+
+    <p>
+        Testing Enthusiast || API Testing || Functional Testing
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/dajones_eng'>
             <span class='name'>Dale Jones</span><span class='screen-name'>@dajones_eng</span>
         </a>
@@ -184,17 +195,6 @@
 The #CodeWords Podcast - Coming soon
 On R3 of the #100DaysOfCode challenge
 Hiking 🗻 Cycling 🚲 SUP  🛶 Veggie 🥕 HP ⚡️
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/thisisbillall'>
-            <span class='name'>Mohammad Bilal</span><span class='screen-name'>@thisisbillall</span>
-        </a>
-    </h2>
-
-    <p>
-        Web / App developer | Open source
     </p>
 </li>
 
