@@ -163,6 +163,19 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/jeroenhjanssens'>
+            <span class='name'>Jeroen Janssens</span><span class='screen-name'>@jeroenhjanssens</span>
+        </a>
+    </h2>
+
+    <p>
+        Author of Data Science at the Command Line (2nd edition coming soon!). Instructor at Data Science Workshops.
+
+#linux #rstats #python #lego
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/testerRudrika'>
             <span class='name'>RUDRIKA</span><span class='screen-name'>@testerRudrika</span>
         </a>
@@ -181,20 +194,6 @@
 
     <p>
         Consultant Product Design Mechanical Engineer & Founder @Form_Lab. I Engineer Technology Products. I'm passionate about #STEAM, doing, learning and sharing.
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/robjrobbie'>
-            <span class='name'>Rob B</span><span class='screen-name'>@robjrobbie</span>
-        </a>
-    </h2>
-
-    <p>
-        Podcast wizard on @BiggerMoviePod 
-The #CodeWords Podcast - Coming soon
-On R3 of the #100DaysOfCode challenge
-Hiking 🗻 Cycling 🚲 SUP  🛶 Veggie 🥕 HP ⚡️
     </p>
 </li>
 
