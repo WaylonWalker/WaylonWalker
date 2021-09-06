@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Paragonadey'>
+            <span class='name'>Adébọ̀wálé</span><span class='screen-name'>@Paragonadey</span>
+        </a>
+    </h2>
+
+    <p>
+        Mathematician,Researcher,Data scientist, lover of #Python, #DataScience #BigData #DeepLearning  #MachineLearning #AI  MSc at @univaq @unihh @udusok
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/luipb'>
             <span class='name'>lui</span><span class='screen-name'>@luipb</span>
         </a>
@@ -181,19 +192,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/jeroenhjanssens'>
-            <span class='name'>Jeroen Janssens</span><span class='screen-name'>@jeroenhjanssens</span>
-        </a>
-    </h2>
-
-    <p>
-        Author of Data Science at the Command Line (2nd edition coming soon!). Instructor at Data Science Workshops.
-
-#linux #rstats #python #lego
     </p>
 </li>
 
