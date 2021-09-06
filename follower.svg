@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/luipb'>
+            <span class='name'>lui</span><span class='screen-name'>@luipb</span>
+        </a>
+    </h2>
+
+    <p>
+        🚣🏻‍♀️
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/atavidas18'>
+            <span class='name'>Atavi Das</span><span class='screen-name'>@atavidas18</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/jeroenhjanssens'>
             <span class='name'>Jeroen Janssens</span><span class='screen-name'>@jeroenhjanssens</span>
         </a>
@@ -172,28 +194,6 @@
         Author of Data Science at the Command Line (2nd edition coming soon!). Instructor at Data Science Workshops.
 
 #linux #rstats #python #lego
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/testerRudrika'>
-            <span class='name'>RUDRIKA</span><span class='screen-name'>@testerRudrika</span>
-        </a>
-    </h2>
-
-    <p>
-        Testing Enthusiast || API Testing || Functional Testing
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/dajones_eng'>
-            <span class='name'>Dale Jones</span><span class='screen-name'>@dajones_eng</span>
-        </a>
-    </h2>
-
-    <p>
-        Consultant Product Design Mechanical Engineer & Founder @Form_Lab. I Engineer Technology Products. I'm passionate about #STEAM, doing, learning and sharing.
     </p>
 </li>
 
