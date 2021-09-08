@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/jeffxn'>
+            <span class='name'>Jeff Xavier</span><span class='screen-name'>@jeffxn</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/DrewWindler'>
             <span class='name'>Drew Windler</span><span class='screen-name'>@DrewWindler</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Mathematician,Researcher,Data scientist, lover of #Python, #DataScience #BigData #DeepLearning  #MachineLearning #AI  MSc at @univaq @unihh @udusok
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/luipb'>
-            <span class='name'>lui</span><span class='screen-name'>@luipb</span>
-        </a>
-    </h2>
-
-    <p>
-        🚣🏻‍♀️
     </p>
 </li>
 
