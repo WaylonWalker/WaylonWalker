@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/claudiofreitas'>
+            <span class='name'>Claudio Freitas（クラウ）</span><span class='screen-name'>@claudiofreitas</span>
+        </a>
+    </h2>
+
+    <p>
+        He/Him
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/MeetGor21'>
             <span class='name'>MR_Destructive</span><span class='screen-name'>@MeetGor21</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/bletonit'>
-            <span class='name'>Eppur si muove</span><span class='screen-name'>@bletonit</span>
-        </a>
-    </h2>
-
-    <p>
-        “La educación es lo que queda una vez que olvidamos todo lo que aprendimos en la escuela” 🧠
     </p>
 </li>
 
