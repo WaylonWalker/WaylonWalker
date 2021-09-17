@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/Matthew_UX'>
+            <span class='name'>Matt</span><span class='screen-name'>@Matthew_UX</span>
+        </a>
+    </h2>
+
+    <p>
+        Hello! I'm a product designer & front-end developer with a strong desire to create human-centered products that better the lives of others. I also love pizza🍕
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/elijahmanor'>
             <span class='name'>Elijah Manor</span><span class='screen-name'>@elijahmanor</span>
         </a>
@@ -181,17 +192,6 @@
 
     <p>
         Frontend developer. 🚀💎👐
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/claudiofreitas'>
-            <span class='name'>Claudio Freitas（クラウ）</span><span class='screen-name'>@claudiofreitas</span>
-        </a>
-    </h2>
-
-    <p>
-        He/Him
     </p>
 </li>
 
