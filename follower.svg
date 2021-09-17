@@ -163,6 +163,28 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/elijahmanor'>
+            <span class='name'>Elijah Manor</span><span class='screen-name'>@elijahmanor</span>
+        </a>
+    </h2>
+
+    <p>
+        ✝️ Christian & 👪 family man. 👨‍💻 Senior Front-End Dev at @planview @leankit specializing in ⚛️ React. 🖥 Neovim user. Makes 📹 videos https://t.co/AuuQJYHVY6
+    </p>
+</li>
+<li>
+    <h2>
+        <a href='https://twitter.com/tearingItUp786'>
+            <span class='name'>Taran Bains</span><span class='screen-name'>@tearingItUp786</span>
+        </a>
+    </h2>
+
+    <p>
+        Frontend developer. 🚀💎👐
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/claudiofreitas'>
             <span class='name'>Claudio Freitas（クラウ）</span><span class='screen-name'>@claudiofreitas</span>
         </a>
@@ -170,28 +192,6 @@
 
     <p>
         He/Him
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/MeetGor21'>
-            <span class='name'>MR_Destructive</span><span class='screen-name'>@MeetGor21</span>
-        </a>
-    </h2>
-
-    <p>
-        
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/simpsonjt66'>
-            <span class='name'>simpsonjt66</span><span class='screen-name'>@simpsonjt66</span>
-        </a>
-    </h2>
-
-    <p>
-        
     </p>
 </li>
 
