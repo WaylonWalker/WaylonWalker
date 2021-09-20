@@ -163,6 +163,17 @@
         <ul class='followers'>
             <li>
     <h2>
+        <a href='https://twitter.com/shyvesfps'>
+            <span class='name'>Chaves</span><span class='screen-name'>@shyvesfps</span>
+        </a>
+    </h2>
+
+    <p>
+        
+    </p>
+</li>
+<li>
+    <h2>
         <a href='https://twitter.com/AleRpascual'>
             <span class='name'>ale.rpascual</span><span class='screen-name'>@AleRpascual</span>
         </a>
@@ -184,17 +195,6 @@
 من ماتت امه فقد قلبه وان بلغ ما بلغ
 
 Python Developer
-    </p>
-</li>
-<li>
-    <h2>
-        <a href='https://twitter.com/Matthew_UX'>
-            <span class='name'>Matt</span><span class='screen-name'>@Matthew_UX</span>
-        </a>
-    </h2>
-
-    <p>
-        Hello! I'm a product designer & front-end developer with a strong desire to create human-centered products that better the lives of others. I also love pizza🍕
     </p>
 </li>
 
