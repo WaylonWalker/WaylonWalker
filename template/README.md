@@ -17,7 +17,14 @@ Hey there 👋,
 
 I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others as public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
  
-  ---
+---
+ 
+## [YouTube](https://youtube.com/waylonwalker)
+
+[See Latest Video](https://www.youtube.com/watch?v=dkOgqzQYMa0&list=UUhoRUssc5HoO-xQ9hUKZ1mA&index=2)
+
+
+---
  
  <p>
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
@@ -39,7 +46,7 @@ I write regular blog posts, most of which you will find on my personal website [
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
-[Latest Post 👉](https://waylonwalker.com/latest)
+[Latest Post 👉](https://waylonwalker.com/latest/)
 
 <details>
  <summary><strong>other favorite posts</strong></summary>
