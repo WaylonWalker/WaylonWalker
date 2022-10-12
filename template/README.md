@@ -75,3 +75,5 @@ ${latest_followers}
 ## Stargazers
 
 [![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
+
+[![@waylonwalker's Holopin board](https://holopin.me/waylonwalker)](https://holopin.io/@waylonwalker)
